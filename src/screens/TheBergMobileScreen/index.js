@@ -1,0 +1,1 @@
+export { TheBergMobileScreen } from "./TheBergMobileScreen";
