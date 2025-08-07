@@ -1,0 +1,9516 @@
+.the-berg-mobile {
+  align-items: start;
+  background-color: #fafafa;
+  display: grid;
+  height: 100%;
+  justify-items: center;
+  min-height: 100vh;
+  width: 100vw;
+}
+
+.the-berg-mobile .div {
+  background-color: #fafafa;
+  height: 2570px;
+  overflow: hidden;
+  position: relative;
+  width: 430px;
+}
+
+.the-berg-mobile .overlap {
+  height: 874px;
+  left: -72px;
+  position: absolute;
+  top: 431px;
+  width: 1440px;
+}
+
+.the-berg-mobile .rectangle {
+  background-color: #ffffff;
+  height: 720px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.the-berg-mobile .mask-group {
+  height: 720px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.the-berg-mobile .overlap-group {
+  height: 1159px;
+  left: -109px;
+  position: relative;
+  top: -196px;
+  width: 2327px;
+}
+
+.the-berg-mobile .div-2 {
+  height: 1159px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 2327px;
+}
+
+.the-berg-mobile .pe {
+  height: 148px;
+  left: 553px;
+  object-fit: cover;
+  position: absolute;
+  top: 709px;
+  width: 83px;
+}
+
+.the-berg-mobile .gf {
+  height: 29px;
+  left: 728px;
+  object-fit: cover;
+  position: absolute;
+  top: 662px;
+  width: 19px;
+}
+
+.the-berg-mobile .bf {
+  height: 46px;
+  left: 1049px;
+  object-fit: cover;
+  position: absolute;
+  top: 586px;
+  width: 52px;
+}
+
+.the-berg-mobile .fr {
+  height: 77px;
+  left: 1054px;
+  position: absolute;
+  top: 297px;
+  width: 94px;
+}
+
+.the-berg-mobile .overlap-group-2 {
+  height: 69px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 85px;
+}
+
+.the-berg-mobile .path {
+  height: 1px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 29px;
+  width: 1px;
+}
+
+.the-berg-mobile .img {
+  height: 1px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: 33px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-2 {
+  height: 1px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  top: 39px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-3 {
+  height: 1px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  top: 40px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-4 {
+  height: 69px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 85px;
+}
+
+.the-berg-mobile .path-5 {
+  height: 13px;
+  left: 87px;
+  object-fit: cover;
+  position: absolute;
+  top: 64px;
+  width: 6px;
+}
+
+.the-berg-mobile .ly {
+  height: 111px;
+  left: 1146px;
+  object-fit: cover;
+  position: absolute;
+  top: 440px;
+  width: 103px;
+}
+
+.the-berg-mobile .by {
+  height: 38px;
+  left: 1236px;
+  object-fit: cover;
+  position: absolute;
+  top: 258px;
+  width: 63px;
+}
+
+.the-berg-mobile .pk {
+  height: 107px;
+  left: 1482px;
+  object-fit: cover;
+  position: absolute;
+  top: 409px;
+  width: 112px;
+}
+
+.the-berg-mobile .id {
+  height: 136px;
+  left: 1708px;
+  object-fit: cover;
+  position: absolute;
+  top: 661px;
+  width: 299px;
+}
+
+.the-berg-mobile .ye {
+  height: 55px;
+  left: 1363px;
+  position: absolute;
+  top: 555px;
+  width: 78px;
+}
+
+.the-berg-mobile .overlap-2 {
+  height: 52px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 69px;
+}
+
+.the-berg-mobile .path-6 {
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 40px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-7 {
+  height: 52px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 69px;
+}
+
+.the-berg-mobile .path-8 {
+  height: 1px;
+  left: 63px;
+  object-fit: cover;
+  position: absolute;
+  top: 55px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-9 {
+  height: 3px;
+  left: 70px;
+  object-fit: cover;
+  position: absolute;
+  top: 51px;
+  width: 7px;
+}
+
+.the-berg-mobile .mg {
+  background-image: url(../../../static/img/path2622-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 110px;
+  left: 1367px;
+  position: absolute;
+  top: 805px;
+  width: 48px;
+}
+
+.the-berg-mobile .path-10 {
+  height: 2px;
+  left: 33px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-11 {
+  height: 3px;
+  left: 43px;
+  object-fit: cover;
+  position: absolute;
+  top: 38px;
+  width: 1px;
+}
+
+.the-berg-mobile .bo {
+  height: 107px;
+  left: 629px;
+  object-fit: cover;
+  position: absolute;
+  top: 787px;
+  width: 79px;
+}
+
+.the-berg-mobile .ci {
+  height: 51px;
+  left: 1029px;
+  object-fit: cover;
+  position: absolute;
+  top: 621px;
+  width: 40px;
+}
+
+.the-berg-mobile .dz {
+  height: 147px;
+  left: 1029px;
+  object-fit: cover;
+  position: absolute;
+  top: 409px;
+  width: 135px;
+}
+
+.the-berg-mobile .ch {
+  height: 15px;
+  left: 1124px;
+  object-fit: cover;
+  position: absolute;
+  top: 323px;
+  width: 29px;
+}
+
+.the-berg-mobile .cm {
+  height: 93px;
+  left: 1140px;
+  object-fit: cover;
+  position: absolute;
+  top: 603px;
+  width: 50px;
+}
+
+.the-berg-mobile .mk {
+  height: 12px;
+  left: 1219px;
+  object-fit: cover;
+  position: absolute;
+  top: 366px;
+  width: 16px;
+}
+
+.the-berg-mobile .bw {
+  height: 74px;
+  left: 1216px;
+  object-fit: cover;
+  position: absolute;
+  top: 852px;
+  width: 61px;
+}
+
+.the-berg-mobile .ua {
+  height: 63px;
+  left: 1229px;
+  object-fit: cover;
+  position: absolute;
+  top: 287px;
+  width: 118px;
+}
+
+.the-berg-mobile .ke {
+  height: 81px;
+  left: 1306px;
+  object-fit: cover;
+  position: absolute;
+  top: 665px;
+  width: 52px;
+}
+
+.the-berg-mobile .tw {
+  height: 27px;
+  left: 1859px;
+  position: absolute;
+  top: 504px;
+  width: 23px;
+}
+
+.the-berg-mobile .path-12 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-13 {
+  height: 27px;
+  left: 12px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 12px;
+}
+
+.the-berg-mobile .jo {
+  height: 34px;
+  left: 1313px;
+  object-fit: cover;
+  position: absolute;
+  top: 439px;
+  width: 29px;
+}
+
+.the-berg-mobile .mx {
+  background-image: url(../../../static/img/path2634-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 485px;
+  position: absolute;
+  top: 557px;
+  width: 2px;
+}
+
+.the-berg-mobile .ae {
+  height: 28px;
+  left: 1422px;
+  position: absolute;
+  top: 498px;
+  width: 31px;
+}
+
+.the-berg-mobile .div-3 {
+  height: 28px;
+  position: relative;
+}
+
+.the-berg-mobile .path-14 {
+  height: 1px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 2px;
+}
+
+.the-berg-mobile .path-15 {
+  height: 28px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 31px;
+}
+
+.the-berg-mobile .bz {
+  height: 21px;
+  left: 502px;
+  position: absolute;
+  top: 559px;
+  width: 9px;
+}
+
+.the-berg-mobile .path-16 {
+  height: 1px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-17 {
+  height: 21px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.the-berg-mobile .br {
+  height: 316px;
+  left: 601px;
+  object-fit: cover;
+  position: absolute;
+  top: 666px;
+  width: 256px;
+}
+
+.the-berg-mobile .sl {
+  height: 25px;
+  left: 999px;
+  position: absolute;
+  top: 627px;
+  width: 20px;
+}
+
+.the-berg-mobile .overlap-3 {
+  height: 25px;
+  position: relative;
+}
+
+.the-berg-mobile .path-18 {
+  height: 1px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 19px;
+  width: 3px;
+}
+
+.the-berg-mobile .path-19 {
+  height: 25px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+
+.the-berg-mobile .ml {
+  height: 120px;
+  left: 1005px;
+  object-fit: cover;
+  position: absolute;
+  top: 506px;
+  width: 108px;
+}
+
+.the-berg-mobile .cd {
+  height: 152px;
+  left: 1165px;
+  object-fit: cover;
+  position: absolute;
+  top: 665px;
+  width: 125px;
+}
+
+.the-berg-mobile .it {
+  height: 83px;
+  left: 1129px;
+  position: absolute;
+  top: 329px;
+  width: 78px;
+}
+
+.the-berg-mobile .path-20 {
+  height: 1px;
+  left: 35px;
+  object-fit: cover;
+  position: absolute;
+  top: 82px;
+  width: 1px;
+}
+
+.the-berg-mobile .overlap-4 {
+  height: 83px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 78px;
+}
+
+.the-berg-mobile .path-21 {
+  height: 73px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 78px;
+}
+
+.the-berg-mobile .path-22 {
+  height: 19px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 47px;
+  width: 10px;
+}
+
+.the-berg-mobile .path-23 {
+  height: 1px;
+  left: 23px;
+  object-fit: cover;
+  position: absolute;
+  top: 33px;
+  width: 2px;
+}
+
+.the-berg-mobile .path-24 {
+  height: 13px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 70px;
+  width: 21px;
+}
+
+.the-berg-mobile .so {
+  height: 111px;
+  left: 1353px;
+  object-fit: cover;
+  position: absolute;
+  top: 611px;
+  width: 68px;
+}
+
+.the-berg-mobile .af {
+  height: 73px;
+  left: 1479px;
+  object-fit: cover;
+  position: absolute;
+  top: 398px;
+  width: 96px;
+}
+
+.the-berg-mobile .bd {
+  height: 47px;
+  left: 1661px;
+  object-fit: cover;
+  position: absolute;
+  top: 493px;
+  width: 30px;
+}
+
+.the-berg-mobile .do {
+  background-image: url(../../../static/img/path3372-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 19px;
+  left: 614px;
+  position: absolute;
+  top: 547px;
+  width: 24px;
+}
+
+.the-berg-mobile .path-25 {
+  height: 1px;
+  left: 21px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 1px;
+}
+
+.the-berg-mobile .gw {
+  height: 14px;
+  left: 976px;
+  position: absolute;
+  top: 606px;
+  width: 20px;
+}
+
+.the-berg-mobile .div-4 {
+  height: 14px;
+  position: relative;
+}
+
+.the-berg-mobile .path-26 {
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-27 {
+  height: 1px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-28 {
+  height: 1px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-29 {
+  height: 1px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-30 {
+  height: 1px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-31 {
+  height: 1px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-32 {
+  height: 1px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-33 {
+  height: 14px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+
+.the-berg-mobile .gh {
+  height: 52px;
+  left: 1064px;
+  object-fit: cover;
+  position: absolute;
+  top: 619px;
+  width: 29px;
+}
+
+.the-berg-mobile .at {
+  height: 20px;
+  left: 1147px;
+  object-fit: cover;
+  position: absolute;
+  top: 313px;
+  width: 50px;
+}
+
+.the-berg-mobile .se {
+  height: 113px;
+  left: 1157px;
+  object-fit: cover;
+  position: absolute;
+  top: 150px;
+  width: 86px;
+}
+
+.the-berg-mobile .tr {
+  height: 50px;
+  left: 1255px;
+  position: absolute;
+  top: 368px;
+  width: 123px;
+}
+
+.the-berg-mobile .overlap-5 {
+  height: 50px;
+  position: relative;
+}
+
+.the-berg-mobile .path-34 {
+  height: 16px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+
+.the-berg-mobile .path-35 {
+  height: 50px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 123px;
+}
+
+.the-berg-mobile .ug {
+  height: 46px;
+  left: 1278px;
+  object-fit: cover;
+  position: absolute;
+  top: 674px;
+  width: 35px;
+}
+
+.the-berg-mobile .mz {
+  height: 132px;
+  left: 1282px;
+  position: absolute;
+  top: 793px;
+  width: 69px;
+}
+
+.the-berg-mobile .overlap-6 {
+  height: 132px;
+  position: relative;
+}
+
+.the-berg-mobile .path-36 {
+  height: 2px;
+  left: 34px;
+  object-fit: cover;
+  position: absolute;
+  top: 89px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-37 {
+  height: 1px;
+  left: 40px;
+  object-fit: cover;
+  position: absolute;
+  top: 67px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-38 {
+  height: 132px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 69px;
+}
+
+.the-berg-mobile .path-39 {
+  height: 1px;
+  left: 63px;
+  object-fit: cover;
+  position: absolute;
+  top: 47px;
+  width: 1px;
+}
+
+.the-berg-mobile .jp {
+  height: 169px;
+  left: 1894px;
+  object-fit: cover;
+  position: absolute;
+  top: 343px;
+  width: 144px;
+}
+
+.the-berg-mobile .cu {
+  background-image: url(../../../static/img/path3580-1-1x-png.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 27px;
+  left: 530px;
+  position: absolute;
+  top: 521px;
+  width: 70px;
+}
+
+.the-berg-mobile .path-40 {
+  height: 4px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 4px;
+}
+
+.the-berg-mobile .path-41 {
+  height: 1px;
+  left: 30px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-42 {
+  height: 1px;
+  left: 42px;
+  object-fit: cover;
+  position: absolute;
+  top: 21px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-43 {
+  height: 1px;
+  left: 41px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 2px;
+}
+
+.the-berg-mobile .path-44 {
+  height: 1px;
+  left: 43px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 2px;
+}
+
+.the-berg-mobile .path-45 {
+  height: 2px;
+  left: 45px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-46 {
+  height: 1px;
+  left: 45px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 2px;
+}
+
+.the-berg-mobile .ve {
+  height: 94px;
+  left: 605px;
+  object-fit: cover;
+  position: absolute;
+  top: 610px;
+  width: 89px;
+}
+
+.the-berg-mobile .pt {
+  height: 77px;
+  left: 899px;
+  position: absolute;
+  top: 368px;
+  width: 146px;
+}
+
+.the-berg-mobile .path-47 {
+  height: 41px;
+  left: 124px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 21px;
+}
+
+.the-berg-mobile .path-48 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 28px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-49 {
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 29px;
+  width: 3px;
+}
+
+.the-berg-mobile .path-50 {
+  height: 1px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 28px;
+  width: 3px;
+}
+
+.the-berg-mobile .path-51 {
+  height: 1px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 27px;
+  width: 2px;
+}
+
+.the-berg-mobile .path-52 {
+  height: 2px;
+  left: 19px;
+  object-fit: cover;
+  position: absolute;
+  top: 34px;
+  width: 3px;
+}
+
+.the-berg-mobile .path-53 {
+  height: 1px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  top: 41px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-54 {
+  height: 2px;
+  left: 74px;
+  object-fit: cover;
+  position: absolute;
+  top: 75px;
+  width: 3px;
+}
+
+.the-berg-mobile .co {
+  height: 135px;
+  left: 568px;
+  object-fit: cover;
+  position: absolute;
+  top: 608px;
+  width: 80px;
+}
+
+.the-berg-mobile .mr {
+  height: 102px;
+  left: 974px;
+  position: absolute;
+  top: 488px;
+  width: 80px;
+}
+
+.the-berg-mobile .overlap-7 {
+  height: 102px;
+  position: relative;
+}
+
+.the-berg-mobile .path-55 {
+  height: 2px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 60px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-56 {
+  height: 102px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 80px;
+}
+
+.the-berg-mobile .ao {
+  height: 110px;
+  left: 1162px;
+  position: absolute;
+  top: 744px;
+  width: 81px;
+}
+
+.the-berg-mobile .path-57 {
+  height: 98px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 81px;
+}
+
+.the-berg-mobile .path-58 {
+  height: 11px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.the-berg-mobile .de {
+  height: 64px;
+  left: 1125px;
+  position: absolute;
+  top: 264px;
+  width: 59px;
+}
+
+.the-berg-mobile .overlap-8 {
+  height: 64px;
+  position: relative;
+}
+
+.the-berg-mobile .path-59 {
+  height: 1px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-60 {
+  height: 1px;
+  left: 33px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 2px;
+}
+
+.the-berg-mobile .path-61 {
+  height: 64px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 59px;
+}
+
+.the-berg-mobile .path-62 {
+  height: 3px;
+  left: 46px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 4px;
+}
+
+.the-berg-mobile .path-63 {
+  height: 2px;
+  left: 51px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 3px;
+}
+
+.the-berg-mobile .sd {
+  height: 159px;
+  left: 1227px;
+  object-fit: cover;
+  position: absolute;
+  top: 521px;
+  width: 110px;
+}
+
+.the-berg-mobile .th {
+  height: 119px;
+  left: 1722px;
+  position: absolute;
+  top: 543px;
+  width: 54px;
+}
+
+.the-berg-mobile .overlap-9 {
+  height: 119px;
+  position: relative;
+}
+
+.the-berg-mobile .path-64 {
+  height: 3px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 99px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-65 {
+  height: 1px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 99px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-66 {
+  height: 1px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 103px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-67 {
+  height: 1px;
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 111px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-68 {
+  height: 1px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: 88px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-69 {
+  height: 1px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: 86px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-70 {
+  height: 1px;
+  left: 32px;
+  object-fit: cover;
+  position: absolute;
+  top: 67px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-71 {
+  height: 1px;
+  left: 34px;
+  object-fit: cover;
+  position: absolute;
+  top: 70px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-72 {
+  height: 119px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 54px;
+}
+
+.the-berg-mobile .au {
+  height: 11px;
+  left: 1951px;
+  position: absolute;
+  top: 790px;
+  width: 64px;
+}
+
+.the-berg-mobile .path-73 {
+  height: 3px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-74 {
+  height: 3px;
+  left: 26px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 2px;
+}
+
+.the-berg-mobile .path-75 {
+  height: 1px;
+  left: 63px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.the-berg-mobile .overlap-10 {
+  height: 1px;
+  left: 63px;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.the-berg-mobile .path-76 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.the-berg-mobile .path-77 {
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.the-berg-mobile .pg {
+  height: 83px;
+  left: 2005px;
+  object-fit: cover;
+  position: absolute;
+  top: 720px;
+  width: 99px;
+}
+
+.the-berg-mobile .iq {
+  height: 67px;
+  left: 1338px;
+  object-fit: cover;
+  position: absolute;
+  top: 406px;
+  width: 64px;
+}
+
+.the-berg-mobile .hr {
+  height: 32px;
+  left: 1173px;
+  object-fit: cover;
+  position: absolute;
+  top: 333px;
+  width: 38px;
+}
+
+.the-berg-mobile .gl {
+  height: 205px;
+  left: 539px;
+  position: absolute;
+  top: 16px;
+  width: 392px;
+}
+
+.the-berg-mobile .overlap-11 {
+  height: 205px;
+  position: relative;
+}
+
+.the-berg-mobile .path-78 {
+  height: 9px;
+  left: 116px;
+  object-fit: cover;
+  position: absolute;
+  top: 112px;
+  width: 18px;
+}
+
+.the-berg-mobile .path-79 {
+  height: 1px;
+  left: 116px;
+  object-fit: cover;
+  position: absolute;
+  top: 110px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-80 {
+  height: 1px;
+  left: 112px;
+  object-fit: cover;
+  position: absolute;
+  top: 98px;
+  width: 2px;
+}
+
+.the-berg-mobile .path-81 {
+  height: 2px;
+  left: 124px;
+  object-fit: cover;
+  position: absolute;
+  top: 104px;
+  width: 4px;
+}
+
+.the-berg-mobile .path-82 {
+  height: 1px;
+  left: 127px;
+  object-fit: cover;
+  position: absolute;
+  top: 101px;
+  width: 4px;
+}
+
+.the-berg-mobile .path-83 {
+  height: 1px;
+  left: 129px;
+  object-fit: cover;
+  position: absolute;
+  top: 103px;
+  width: 5px;
+}
+
+.the-berg-mobile .path-84 {
+  height: 1px;
+  left: 129px;
+  object-fit: cover;
+  position: absolute;
+  top: 102px;
+  width: 2px;
+}
+
+.the-berg-mobile .path-85 {
+  height: 1px;
+  left: 136px;
+  object-fit: cover;
+  position: absolute;
+  top: 107px;
+  width: 3px;
+}
+
+.the-berg-mobile .path-86 {
+  height: 1px;
+  left: 137px;
+  object-fit: cover;
+  position: absolute;
+  top: 109px;
+  width: 2px;
+}
+
+.the-berg-mobile .path-87 {
+  height: 1px;
+  left: 139px;
+  object-fit: cover;
+  position: absolute;
+  top: 111px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-88 {
+  height: 1px;
+  left: 139px;
+  object-fit: cover;
+  position: absolute;
+  top: 111px;
+  width: 2px;
+}
+
+.the-berg-mobile .g {
+  height: 205px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 392px;
+}
+
+.the-berg-mobile .ne {
+  height: 95px;
+  left: 1087px;
+  object-fit: cover;
+  position: absolute;
+  top: 518px;
+  width: 103px;
+}
+
+.the-berg-mobile .dk {
+  height: 27px;
+  left: 1138px;
+  object-fit: cover;
+  position: absolute;
+  top: 243px;
+  width: 46px;
+}
+
+.the-berg-mobile .lv {
+  height: 18px;
+  left: 1222px;
+  object-fit: cover;
+  position: absolute;
+  top: 243px;
+  width: 47px;
+}
+
+.the-berg-mobile .ro {
+  height: 36px;
+  left: 1217px;
+  object-fit: cover;
+  position: absolute;
+  top: 319px;
+  width: 62px;
+}
+
+.the-berg-mobile .zm {
+  height: 80px;
+  left: 1229px;
+  object-fit: cover;
+  position: absolute;
+  top: 775px;
+  width: 76px;
+}
+
+.the-berg-mobile .ir {
+  height: 118px;
+  left: 1372px;
+  position: absolute;
+  top: 387px;
+  width: 128px;
+}
+
+.the-berg-mobile .overlap-12 {
+  height: 118px;
+  position: relative;
+}
+
+.the-berg-mobile .path-89 {
+  height: 1px;
+  left: 59px;
+  object-fit: cover;
+  position: absolute;
+  top: 104px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-90 {
+  height: 1px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 107px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-91 {
+  height: 3px;
+  left: 73px;
+  object-fit: cover;
+  position: absolute;
+  top: 103px;
+  width: 7px;
+}
+
+.the-berg-mobile .path-92 {
+  height: 118px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 128px;
+}
+
+.the-berg-mobile .mm {
+  height: 151px;
+  left: 1688px;
+  object-fit: cover;
+  position: absolute;
+  top: 478px;
+  width: 58px;
+}
+
+.the-berg-mobile .et {
+  height: 93px;
+  left: 1301px;
+  object-fit: cover;
+  position: absolute;
+  top: 588px;
+  width: 98px;
+}
+
+.the-berg-mobile .gt {
+  height: 33px;
+  left: 482px;
+  object-fit: cover;
+  position: absolute;
+  top: 564px;
+  width: 26px;
+}
+
+.the-berg-mobile .sr {
+  height: 34px;
+  left: 706px;
+  object-fit: cover;
+  position: absolute;
+  top: 660px;
+  width: 25px;
+}
+
+.the-berg-mobile .eh {
+  height: 56px;
+  left: 974px;
+  object-fit: cover;
+  position: absolute;
+  top: 484px;
+  width: 55px;
+}
+
+.the-berg-mobile .cz {
+  height: 19px;
+  left: 1164px;
+  object-fit: cover;
+  position: absolute;
+  top: 298px;
+  width: 44px;
+}
+
+.the-berg-mobile .td {
+  height: 129px;
+  left: 1173px;
+  object-fit: cover;
+  position: absolute;
+  top: 519px;
+  width: 69px;
+}
+
+.the-berg-mobile .al {
+  height: 24px;
+  left: 1211px;
+  object-fit: cover;
+  position: absolute;
+  top: 364px;
+  width: 11px;
+}
+
+.the-berg-mobile .fi {
+  height: 84px;
+  left: 1213px;
+  object-fit: cover;
+  position: absolute;
+  top: 145px;
+  width: 78px;
+}
+
+.the-berg-mobile .sy {
+  height: 40px;
+  left: 1318px;
+  object-fit: cover;
+  position: absolute;
+  top: 407px;
+  width: 44px;
+}
+
+.the-berg-mobile .kg {
+  height: 32px;
+  left: 1539px;
+  object-fit: cover;
+  position: absolute;
+  top: 359px;
+  width: 71px;
+}
+
+.the-berg-mobile .om {
+  height: 78px;
+  left: 1424px;
+  position: absolute;
+  top: 495px;
+  width: 51px;
+}
+
+.the-berg-mobile .overlap-13 {
+  height: 67px;
+  left: 0;
+  position: absolute;
+  top: 11px;
+  width: 51px;
+}
+
+.the-berg-mobile .path-93 {
+  height: 4px;
+  left: 43px;
+  object-fit: cover;
+  position: absolute;
+  top: 35px;
+  width: 2px;
+}
+
+.the-berg-mobile .path-94 {
+  height: 67px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 51px;
+}
+
+.the-berg-mobile .path-95 {
+  height: 6px;
+  left: 26px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 3px;
+}
+
+.the-berg-mobile .pa {
+  background-image: url(../../../static/img/path2682-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 20px;
+  left: 543px;
+  position: absolute;
+  top: 631px;
+  width: 38px;
+}
+
+.the-berg-mobile .path-96 {
+  height: 1px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-97 {
+  height: 2px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 16px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-98 {
+  height: 1px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 16px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-99 {
+  height: 1px;
+  left: 26px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 1px;
+}
+
+.the-berg-mobile .gb {
+  height: 81px;
+  left: 1031px;
+  object-fit: cover;
+  position: absolute;
+  top: 224px;
+  width: 64px;
+}
+
+.the-berg-mobile .cr {
+  height: 26px;
+  left: 524px;
+  object-fit: cover;
+  position: absolute;
+  top: 618px;
+  width: 22px;
+}
+
+.the-berg-mobile .py {
+  height: 67px;
+  left: 675px;
+  object-fit: cover;
+  position: absolute;
+  top: 864px;
+  width: 55px;
+}
+
+.the-berg-mobile .gn {
+  height: 45px;
+  left: 987px;
+  position: absolute;
+  top: 606px;
+  width: 48px;
+}
+
+.the-berg-mobile .overlap-14 {
+  height: 45px;
+  position: relative;
+}
+
+.the-berg-mobile .path-100 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-101 {
+  height: 45px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 48px;
+}
+
+.the-berg-mobile .ie {
+  height: 30px;
+  left: 1016px;
+  position: absolute;
+  top: 264px;
+  width: 29px;
+}
+
+.the-berg-mobile .overlap-15 {
+  height: 30px;
+  position: relative;
+}
+
+.the-berg-mobile .path-102 {
+  height: 1px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-103 {
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 2px;
+}
+
+.the-berg-mobile .path-104 {
+  height: 30px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 29px;
+}
+
+.the-berg-mobile .ng {
+  height: 77px;
+  left: 1103px;
+  position: absolute;
+  top: 596px;
+  width: 78px;
+}
+
+.the-berg-mobile .overlap-16 {
+  height: 77px;
+  position: relative;
+}
+
+.the-berg-mobile .path-105 {
+  height: 1px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 76px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-106 {
+  height: 1px;
+  left: 30px;
+  object-fit: cover;
+  position: absolute;
+  top: 76px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-107 {
+  height: 77px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 78px;
+}
+
+.the-berg-mobile .tn {
+  background-image: url(../../../static/img/path5410-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 57px;
+  left: 1134px;
+  position: absolute;
+  top: 407px;
+  width: 26px;
+}
+
+.the-berg-mobile .path-108 {
+  height: 2px;
+  left: 21px;
+  object-fit: cover;
+  position: absolute;
+  top: 28px;
+  width: 2px;
+}
+
+.the-berg-mobile .pl {
+  height: 45px;
+  left: 1178px;
+  object-fit: cover;
+  position: absolute;
+  top: 268px;
+  width: 65px;
+}
+
+.the-berg-mobile .na {
+  height: 97px;
+  left: 1162px;
+  object-fit: cover;
+  position: absolute;
+  top: 846px;
+  width: 88px;
+}
+
+.the-berg-mobile .za {
+  height: 102px;
+  left: 1193px;
+  object-fit: cover;
+  position: absolute;
+  top: 888px;
+  width: 107px;
+}
+
+.the-berg-mobile .eg {
+  height: 80px;
+  left: 1247px;
+  object-fit: cover;
+  position: absolute;
+  top: 452px;
+  width: 80px;
+}
+
+.the-berg-mobile .tz {
+  height: 87px;
+  left: 1277px;
+  position: absolute;
+  top: 716px;
+  width: 72px;
+}
+
+.the-berg-mobile .overlap-17 {
+  height: 87px;
+  position: relative;
+}
+
+.the-berg-mobile .path-109 {
+  height: 6px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 39px;
+  width: 3px;
+}
+
+.the-berg-mobile .path-110 {
+  height: 2px;
+  left: 67px;
+  object-fit: cover;
+  position: absolute;
+  top: 54px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-111 {
+  height: 4px;
+  left: 67px;
+  object-fit: cover;
+  position: absolute;
+  top: 32px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-112 {
+  height: 87px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 72px;
+}
+
+.the-berg-mobile .ge {
+  height: 20px;
+  left: 1346px;
+  object-fit: cover;
+  position: absolute;
+  top: 357px;
+  width: 44px;
+}
+
+.the-berg-mobile .sa {
+  height: 127px;
+  left: 1311px;
+  position: absolute;
+  top: 449px;
+  width: 137px;
+}
+
+.the-berg-mobile .overlap-18 {
+  height: 127px;
+  position: relative;
+}
+
+.the-berg-mobile .path-113 {
+  height: 2px;
+  left: 47px;
+  object-fit: cover;
+  position: absolute;
+  top: 123px;
+  width: 3px;
+}
+
+.the-berg-mobile .path-114 {
+  height: 127px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 137px;
+}
+
+.the-berg-mobile .path-115 {
+  height: 1px;
+  left: 47px;
+  object-fit: cover;
+  position: absolute;
+  top: 122px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-116 {
+  height: 1px;
+  left: 97px;
+  object-fit: cover;
+  position: absolute;
+  top: 38px;
+  width: 1px;
+}
+
+.the-berg-mobile .vn {
+  height: 120px;
+  left: 1752px;
+  object-fit: cover;
+  position: absolute;
+  top: 519px;
+  width: 48px;
+}
+
+.the-berg-mobile .ru {
+  height: 311px;
+  left: 1214px;
+  object-fit: cover;
+  position: absolute;
+  top: 63px;
+  width: 1113px;
+}
+
+.the-berg-mobile .ht {
+  height: 16px;
+  left: 598px;
+  position: absolute;
+  top: 546px;
+  width: 18px;
+}
+
+.the-berg-mobile .overlap-19 {
+  background-image: url(../../../static/img/path5512-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 15px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.the-berg-mobile .path-117 {
+  height: 1px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-118 {
+  height: 2px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 3px;
+}
+
+.the-berg-mobile .path-119 {
+  height: 1px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.the-berg-mobile .ba {
+  height: 21px;
+  left: 1188px;
+  object-fit: cover;
+  position: absolute;
+  top: 343px;
+  width: 25px;
+}
+
+.the-berg-mobile .in {
+  height: 232px;
+  left: 1531px;
+  object-fit: cover;
+  position: absolute;
+  top: 422px;
+  width: 190px;
+}
+
+.the-berg-mobile .cn {
+  height: 282px;
+  left: 1567px;
+  object-fit: cover;
+  position: absolute;
+  top: 279px;
+  width: 399px;
+}
+
+.the-berg-mobile .sv {
+  height: 10px;
+  left: 496px;
+  object-fit: cover;
+  position: absolute;
+  top: 592px;
+  width: 16px;
+}
+
+.the-berg-mobile .gy {
+  height: 59px;
+  left: 683px;
+  object-fit: cover;
+  position: absolute;
+  top: 639px;
+  width: 32px;
+}
+
+.the-berg-mobile .be {
+  height: 15px;
+  left: 1102px;
+  object-fit: cover;
+  position: absolute;
+  top: 294px;
+  width: 25px;
+}
+
+.the-berg-mobile .gq {
+  height: 22px;
+  left: 1140px;
+  position: absolute;
+  top: 678px;
+  width: 19px;
+}
+
+.the-berg-mobile .path-120 {
+  height: 5px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 3px;
+}
+
+.the-berg-mobile .path-121 {
+  height: 11px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 13px;
+}
+
+.the-berg-mobile .ls {
+  height: 17px;
+  left: 1262px;
+  object-fit: cover;
+  position: absolute;
+  top: 940px;
+  width: 16px;
+}
+
+.the-berg-mobile .bg {
+  height: 24px;
+  left: 1231px;
+  object-fit: cover;
+  position: absolute;
+  top: 351px;
+  width: 40px;
+}
+
+.the-berg-mobile .bi {
+  height: 17px;
+  left: 1275px;
+  object-fit: cover;
+  position: absolute;
+  top: 727px;
+  width: 12px;
+}
+
+.the-berg-mobile .dj {
+  height: 14px;
+  left: 1358px;
+  object-fit: cover;
+  position: absolute;
+  top: 605px;
+  width: 11px;
+}
+
+.the-berg-mobile .az {
+  height: 28px;
+  left: 1377px;
+  position: absolute;
+  top: 370px;
+  width: 37px;
+}
+
+.the-berg-mobile .path-122 {
+  height: 28px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 35px;
+}
+
+.the-berg-mobile .path-123 {
+  height: 7px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 9px;
+}
+
+.the-berg-mobile .my {
+  height: 52px;
+  left: 1737px;
+  object-fit: cover;
+  position: absolute;
+  top: 649px;
+  width: 129px;
+}
+
+.the-berg-mobile .ph {
+  height: 125px;
+  left: 1850px;
+  object-fit: cover;
+  position: absolute;
+  top: 543px;
+  width: 63px;
+}
+
+.the-berg-mobile .uy {
+  height: 39px;
+  left: 703px;
+  object-fit: cover;
+  position: absolute;
+  top: 952px;
+  width: 34px;
+}
+
+.the-berg-mobile .cg {
+  height: 70px;
+  left: 1158px;
+  object-fit: cover;
+  position: absolute;
+  top: 679px;
+  width: 49px;
+}
+
+.the-berg-mobile .rs {
+  background-image: url(../../../static/img/rs-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 31px;
+  left: 1208px;
+  position: absolute;
+  top: 336px;
+  width: 27px;
+}
+
+.the-berg-mobile .me {
+  background-image: url(../../../static/img/me-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 13px;
+  left: 1206px;
+  position: absolute;
+  top: 357px;
+  width: 11px;
+}
+
+.the-berg-mobile .ee {
+  height: 17px;
+  left: 1228px;
+  position: absolute;
+  top: 230px;
+  width: 41px;
+}
+
+.the-berg-mobile .overlap-20 {
+  height: 6px;
+  left: 0;
+  position: absolute;
+  top: 9px;
+  width: 10px;
+}
+
+.the-berg-mobile .path-124 {
+  height: 5px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 9px;
+}
+
+.the-berg-mobile .path-125 {
+  height: 1px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.the-berg-mobile .path-126 {
+  height: 3px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 6px;
+}
+
+.the-berg-mobile .path-127 {
+  height: 1px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-128 {
+  height: 17px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 31px;
+}
+
+.the-berg-mobile .rw {
+  height: 14px;
+  left: 1274px;
+  object-fit: cover;
+  position: absolute;
+  top: 717px;
+  width: 13px;
+}
+
+.the-berg-mobile .am {
+  height: 20px;
+  left: 1369px;
+  object-fit: cover;
+  position: absolute;
+  top: 375px;
+  width: 21px;
+}
+
+.the-berg-mobile .sn {
+  height: 36px;
+  left: 971px;
+  object-fit: cover;
+  position: absolute;
+  top: 573px;
+  width: 40px;
+}
+
+.the-berg-mobile .tg {
+  height: 41px;
+  left: 1084px;
+  object-fit: cover;
+  position: absolute;
+  top: 618px;
+  width: 13px;
+}
+
+.the-berg-mobile .es {
+  height: 130px;
+  left: 968px;
+  object-fit: cover;
+  position: absolute;
+  top: 355px;
+  width: 146px;
+}
+
+.the-berg-mobile .ga {
+  height: 51px;
+  left: 1143px;
+  position: absolute;
+  top: 690px;
+  width: 38px;
+}
+
+.the-berg-mobile .overlap-21 {
+  height: 51px;
+  position: relative;
+}
+
+.the-berg-mobile .path-129 {
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 24px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-130 {
+  height: 51px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 38px;
+}
+
+.the-berg-mobile .hu {
+  height: 22px;
+  left: 1190px;
+  object-fit: cover;
+  position: absolute;
+  top: 317px;
+  width: 44px;
+}
+
+.the-berg-mobile .mw {
+  height: 62px;
+  left: 1299px;
+  object-fit: cover;
+  position: absolute;
+  top: 784px;
+  width: 20px;
+}
+
+.the-berg-mobile .tj {
+  height: 35px;
+  left: 1526px;
+  object-fit: cover;
+  position: absolute;
+  top: 377px;
+  width: 51px;
+}
+
+.the-berg-mobile .kh {
+  height: 38px;
+  left: 1754px;
+  position: absolute;
+  top: 589px;
+  width: 34px;
+}
+
+.the-berg-mobile .path-131 {
+  height: 3px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 35px;
+  width: 2px;
+}
+
+.the-berg-mobile .overlap-22 {
+  height: 34px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 34px;
+}
+
+.the-berg-mobile .path-132 {
+  height: 1px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 27px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-133 {
+  height: 1px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 32px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-134 {
+  height: 34px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 34px;
+}
+
+.the-berg-mobile .kr {
+  height: 44px;
+  left: 1909px;
+  position: absolute;
+  top: 396px;
+  width: 22px;
+}
+
+.the-berg-mobile .overlap-23 {
+  height: 35px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 22px;
+}
+
+.the-berg-mobile .path-135 {
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-136 {
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-137 {
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-138 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 33px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-139 {
+  height: 1px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 34px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-140 {
+  height: 1px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-141 {
+  height: 2px;
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 29px;
+  width: 2px;
+}
+
+.the-berg-mobile .path-142 {
+  height: 35px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 22px;
+}
+
+.the-berg-mobile .path-143 {
+  height: 3px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 41px;
+  width: 5px;
+}
+
+.the-berg-mobile .hn {
+  height: 28px;
+  left: 501px;
+  position: absolute;
+  top: 576px;
+  width: 41px;
+}
+
+.the-berg-mobile .path-144 {
+  height: 25px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 41px;
+}
+
+.the-berg-mobile .path-145 {
+  height: 1px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.the-berg-mobile .is {
+  height: 26px;
+  left: 926px;
+  object-fit: cover;
+  position: absolute;
+  top: 170px;
+  width: 72px;
+}
+
+.the-berg-mobile .ni {
+  height: 34px;
+  left: 512px;
+  object-fit: cover;
+  position: absolute;
+  top: 587px;
+  width: 29px;
+}
+
+.the-berg-mobile .ma {
+  height: 67px;
+  left: 999px;
+  object-fit: cover;
+  position: absolute;
+  top: 418px;
+  width: 79px;
+}
+
+.the-berg-mobile .lr {
+  height: 34px;
+  left: 1011px;
+  object-fit: cover;
+  position: absolute;
+  top: 639px;
+  width: 27px;
+}
+
+.the-berg-mobile .nl {
+  height: 21px;
+  left: 1107px;
+  position: absolute;
+  top: 279px;
+  width: 25px;
+}
+
+.the-berg-mobile .overlap-24 {
+  height: 21px;
+  position: relative;
+}
+
+.the-berg-mobile .path-146 {
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 3px;
+}
+
+.the-berg-mobile .path-147 {
+  height: 1px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 3px;
+}
+
+.the-berg-mobile .path-148 {
+  height: 1px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-149 {
+  height: 1px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-150 {
+  height: 1px;
+  left: 12px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.the-berg-mobile .path-151 {
+  height: 1px;
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.the-berg-mobile .path-152 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 16px;
+  width: 6px;
+}
+
+.the-berg-mobile .path-153 {
+  height: 21px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.the-berg-mobile .cf {
+  height: 71px;
+  left: 1179px;
+  object-fit: cover;
+  position: absolute;
+  top: 619px;
+  width: 85px;
+}
+
+.the-berg-mobile .sk {
+  height: 14px;
+  left: 1196px;
+  object-fit: cover;
+  position: absolute;
+  top: 309px;
+  width: 36px;
+}
+
+.the-berg-mobile .lt {
+  height: 19px;
+  left: 1222px;
+  object-fit: cover;
+  position: absolute;
+  top: 255px;
+  width: 38px;
+}
+
+.the-berg-mobile .zw {
+  height: 55px;
+  left: 1250px;
+  object-fit: cover;
+  position: absolute;
+  top: 835px;
+  width: 51px;
+}
+
+.the-berg-mobile .lk {
+  height: 31px;
+  left: 1607px;
+  position: absolute;
+  top: 629px;
+  width: 15px;
+}
+
+.the-berg-mobile .overlap-25 {
+  height: 31px;
+  position: relative;
+}
+
+.the-berg-mobile .path-154 {
+  height: 31px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 15px;
+}
+
+.the-berg-mobile .path-155 {
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+
+.the-berg-mobile .il {
+  height: 31px;
+  left: 1309px;
+  object-fit: cover;
+  position: absolute;
+  top: 439px;
+  width: 9px;
+}
+
+.the-berg-mobile .la {
+  height: 69px;
+  left: 1740px;
+  object-fit: cover;
+  position: absolute;
+  top: 526px;
+  width: 50px;
+}
+
+.the-berg-mobile .kp {
+  height: 42px;
+  left: 1898px;
+  object-fit: cover;
+  position: absolute;
+  top: 362px;
+  width: 41px;
+}
+
+.the-berg-mobile .gr {
+  height: 55px;
+  left: 1214px;
+  object-fit: cover;
+  position: absolute;
+  top: 371px;
+  width: 56px;
+}
+
+.the-berg-mobile .tm {
+  height: 61px;
+  left: 1427px;
+  object-fit: cover;
+  position: absolute;
+  top: 363px;
+  width: 94px;
+}
+
+.the-berg-mobile .ec {
+  height: 52px;
+  left: 486px;
+  object-fit: cover;
+  position: absolute;
+  top: 697px;
+  width: 107px;
+}
+
+.the-berg-mobile .bj {
+  height: 50px;
+  left: 1091px;
+  object-fit: cover;
+  position: absolute;
+  top: 608px;
+  width: 20px;
+}
+
+.the-berg-mobile .si {
+  height: 11px;
+  left: 1173px;
+  object-fit: cover;
+  position: absolute;
+  top: 330px;
+  width: 21px;
+}
+
+.the-berg-mobile .no {
+  height: 181px;
+  left: 1028px;
+  object-fit: cover;
+  position: absolute;
+  top: 60px;
+  width: 277px;
+}
+
+.the-berg-mobile .md {
+  height: 24px;
+  left: 1259px;
+  object-fit: cover;
+  position: absolute;
+  top: 318px;
+  width: 23px;
+}
+
+.the-berg-mobile .lb {
+  background-image: url(../../../static/img/lb-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 13px;
+  left: 1314px;
+  position: absolute;
+  top: 428px;
+  width: 10px;
+}
+
+.the-berg-mobile .np {
+  height: 32px;
+  left: 1609px;
+  object-fit: cover;
+  position: absolute;
+  top: 463px;
+  width: 53px;
+}
+
+.the-berg-mobile .er {
+  height: 45px;
+  left: 1323px;
+  position: absolute;
+  top: 563px;
+  width: 43px;
+}
+
+.the-berg-mobile .path-156 {
+  height: 3px;
+  left: 23px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 3px;
+}
+
+.the-berg-mobile .path-157 {
+  height: 45px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 43px;
+}
+
+.the-berg-mobile .us {
+  height: 309px;
+  left: 547px;
+  object-fit: cover;
+  position: absolute;
+  top: 197px;
+  width: 1779px;
+}
+
+.the-berg-mobile .kz {
+  background-image: url(../../../static/img/path3898-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 117px;
+  left: 1389px;
+  position: absolute;
+  top: 264px;
+  width: 267px;
+}
+
+.the-berg-mobile .path-158 {
+  height: 5px;
+  left: 79px;
+  object-fit: cover;
+  position: absolute;
+  top: 75px;
+  width: 7px;
+}
+
+.the-berg-mobile .sz {
+  height: 12px;
+  left: 1286px;
+  object-fit: cover;
+  position: absolute;
+  top: 918px;
+  width: 9px;
+}
+
+.the-berg-mobile .uz {
+  background-image: url(../../../static/img/path3470-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 67px;
+  left: 1450px;
+  position: absolute;
+  top: 341px;
+  width: 114px;
+}
+
+.the-berg-mobile .path-159 {
+  height: 9px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.the-berg-mobile .mn {
+  height: 83px;
+  left: 1659px;
+  object-fit: cover;
+  position: absolute;
+  top: 289px;
+  width: 210px;
+}
+
+.the-berg-mobile .bt {
+  height: 13px;
+  left: 1665px;
+  object-fit: cover;
+  position: absolute;
+  top: 480px;
+  width: 22px;
+}
+
+.the-berg-mobile .kw {
+  height: 13px;
+  left: 1389px;
+  position: absolute;
+  top: 465px;
+  width: 12px;
+}
+
+.the-berg-mobile .overlap-group-wrapper {
+  height: 13px;
+}
+
+.the-berg-mobile .overlap-group-3 {
+  height: 13px;
+  position: relative;
+  width: 12px;
+}
+
+.the-berg-mobile .path-160 {
+  height: 3px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 2px;
+}
+
+.the-berg-mobile .path-161 {
+  height: 13px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 12px;
+}
+
+.the-berg-mobile .tl {
+  height: 10px;
+  left: 1896px;
+  position: absolute;
+  top: 776px;
+  width: 21px;
+}
+
+.the-berg-mobile .tl-2 {
+  height: 10px;
+  position: relative;
+}
+
+.the-berg-mobile .path-162 {
+  height: 7px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 15px;
+}
+
+.the-berg-mobile .path-163 {
+  height: 3px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 4px;
+}
+
+.the-berg-mobile .bs {
+  height: 49px;
+  left: 569px;
+  position: absolute;
+  top: 491px;
+  width: 40px;
+}
+
+.the-berg-mobile .bs-2 {
+  height: 49px;
+}
+
+.the-berg-mobile .overlap-group-4 {
+  height: 49px;
+  position: relative;
+  width: 40px;
+}
+
+.the-berg-mobile .path-164 {
+  height: 1px;
+  left: 21px;
+  object-fit: cover;
+  position: absolute;
+  top: 28px;
+  width: 1px;
+}
+
+.the-berg-mobile .g-2 {
+  height: 49px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.the-berg-mobile .fk {
+  height: 8px;
+  left: 685px;
+  position: absolute;
+  top: 1121px;
+  width: 22px;
+}
+
+.the-berg-mobile .overlap-group-wrapper-2 {
+  height: 8px;
+}
+
+.the-berg-mobile .overlap-group-5 {
+  height: 8px;
+  position: relative;
+  width: 22px;
+}
+
+.the-berg-mobile .path-165 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-166 {
+  height: 7px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 11px;
+}
+
+.the-berg-mobile .path-167 {
+  height: 1px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.the-berg-mobile .path-168 {
+  height: 1px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.the-berg-mobile .path-169 {
+  height: 1px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-170 {
+  height: 8px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 13px;
+}
+
+.the-berg-mobile .path-171 {
+  height: 1px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 1px;
+}
+
+.the-berg-mobile .gm {
+  background-image: url(../../../static/img/gm-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 6px;
+  left: 976px;
+  position: absolute;
+  top: 597px;
+  width: 20px;
+}
+
+.the-berg-mobile .qa {
+  background-image: url(../../../static/img/qa-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 12px;
+  left: 1416px;
+  position: absolute;
+  top: 497px;
+  width: 6px;
+}
+
+.the-berg-mobile .jm {
+  background-image: url(../../../static/img/jm-1-1x-png.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 7px;
+  left: 572px;
+  position: absolute;
+  top: 559px;
+  width: 14px;
+}
+
+.the-berg-mobile .cy {
+  background-image: url(../../../static/img/cy-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 9px;
+  left: 1296px;
+  position: absolute;
+  top: 420px;
+  width: 15px;
+}
+
+.the-berg-mobile .pr {
+  background-image: url(../../../static/img/pr-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 5px;
+  left: 645px;
+  position: absolute;
+  top: 559px;
+  width: 11px;
+}
+
+.the-berg-mobile .ps {
+  height: 11px;
+  left: 1309px;
+  position: absolute;
+  top: 445px;
+  width: 9px;
+}
+
+.the-berg-mobile .div-5 {
+  height: 11px;
+  position: relative;
+}
+
+.the-berg-mobile .path-172 {
+  height: 3px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 2px;
+}
+
+.the-berg-mobile .path-173 {
+  height: 9px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 4px;
+}
+
+.the-berg-mobile .bn {
+  height: 8px;
+  left: 1831px;
+  position: absolute;
+  top: 668px;
+  width: 8px;
+}
+
+.the-berg-mobile .overlap-group-6 {
+  height: 8px;
+  position: relative;
+  width: 8px;
+}
+
+.the-berg-mobile .path-174 {
+  height: 8px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 6px;
+}
+
+.the-berg-mobile .path-175 {
+  height: 5px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 2px;
+}
+
+.the-berg-mobile .tt {
+  height: 11px;
+  left: 680px;
+  position: absolute;
+  top: 617px;
+  width: 9px;
+}
+
+.the-berg-mobile .path-176 {
+  height: 6px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 6px;
+}
+
+.the-berg-mobile .path-177 {
+  height: 2px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.the-berg-mobile .cv {
+  height: 19px;
+  left: 920px;
+  position: absolute;
+  top: 569px;
+  width: 17px;
+}
+
+.the-berg-mobile .cv-2 {
+  height: 19px;
+  position: relative;
+}
+
+.the-berg-mobile .path-178 {
+  height: 2px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.the-berg-mobile .path-179 {
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-180 {
+  height: 2px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-181 {
+  height: 1px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 3px;
+}
+
+.the-berg-mobile .path-182 {
+  height: 3px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 2px;
+}
+
+.the-berg-mobile .path-183 {
+  height: 1px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 16px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-184 {
+  height: 2px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 2px;
+}
+
+.the-berg-mobile .path-185 {
+  height: 2px;
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 1px;
+}
+
+.the-berg-mobile .lu {
+  background-image: url(../../../static/img/lu-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 6px;
+  left: 1123px;
+  position: absolute;
+  top: 304px;
+  width: 5px;
+}
+
+.the-berg-mobile .re {
+  background-image: url(../../../static/img/re-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 4px;
+  left: 1445px;
+  position: absolute;
+  top: 877px;
+  width: 4px;
+}
+
+.the-berg-mobile .km {
+  height: 8px;
+  left: 1367px;
+  position: absolute;
+  top: 800px;
+  width: 8px;
+}
+
+.the-berg-mobile .km-2 {
+  height: 8px;
+  position: relative;
+}
+
+.the-berg-mobile .path-186 {
+  height: 5px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.the-berg-mobile .path-187 {
+  height: 1px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-188 {
+  height: 2px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 2px;
+}
+
+.the-berg-mobile .mu {
+  background-image: url(../../../static/img/mu-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 4px;
+  left: 1459px;
+  position: absolute;
+  top: 870px;
+  width: 3px;
+}
+
+.the-berg-mobile .fo {
+  height: 7px;
+  left: 1040px;
+  position: absolute;
+  top: 212px;
+  width: 6px;
+}
+
+.the-berg-mobile .fo-2 {
+  height: 7px;
+  position: relative;
+}
+
+.the-berg-mobile .overlap-group-7 {
+  height: 3px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 4px;
+}
+
+.the-berg-mobile .path-189 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 2px;
+}
+
+.the-berg-mobile .path-190 {
+  height: 3px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 4px;
+}
+
+.the-berg-mobile .path-191 {
+  height: 2px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 3px;
+}
+
+.the-berg-mobile .path-192 {
+  height: 2px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 2px;
+}
+
+.the-berg-mobile .path-193 {
+  height: 1px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 1px;
+}
+
+.the-berg-mobile .mq {
+  background-image: url(../../../static/img/mq-1-1x-png.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 4px;
+  left: 685px;
+  position: absolute;
+  top: 588px;
+  width: 2px;
+}
+
+.the-berg-mobile .st {
+  height: 14px;
+  left: 1128px;
+  position: absolute;
+  top: 695px;
+  width: 6px;
+}
+
+.the-berg-mobile .path-194 {
+  height: 3px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 2px;
+}
+
+.the-berg-mobile .path-195 {
+  height: 1px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.the-berg-mobile .an {
+  height: 49px;
+  left: 632px;
+  position: absolute;
+  top: 562px;
+  width: 40px;
+}
+
+.the-berg-mobile .an-2 {
+  height: 49px;
+  position: relative;
+}
+
+.the-berg-mobile .path-196 {
+  height: 1px;
+  left: 39px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.the-berg-mobile .path-197 {
+  height: 3px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 47px;
+  width: 3px;
+}
+
+.the-berg-mobile .path-198 {
+  height: 2px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 47px;
+  width: 1px;
+}
+
+.the-berg-mobile .dm {
+  background-image: url(../../../static/img/dm-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 3px;
+  left: 683px;
+  position: absolute;
+  top: 582px;
+  width: 2px;
+}
+
+.the-berg-mobile .gp {
+  height: 5px;
+  left: 681px;
+  position: absolute;
+  top: 575px;
+  width: 4px;
+}
+
+.the-berg-mobile .div-6 {
+  height: 5px;
+  position: relative;
+}
+
+.the-berg-mobile .path-199 {
+  height: 3px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 2px;
+}
+
+.the-berg-mobile .path-200 {
+  height: 2px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.the-berg-mobile .path-201 {
+  height: 1px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.the-berg-mobile .ki {
+  height: 3px;
+  left: 56px;
+  position: absolute;
+  top: 692px;
+  width: 2165px;
+}
+
+.the-berg-mobile .div-7 {
+  height: 3px;
+  position: relative;
+}
+
+.the-berg-mobile .path-202 {
+  height: 3px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 2px;
+}
+
+.the-berg-mobile .path-203 {
+  height: 1px;
+  left: 2164px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.the-berg-mobile .bh {
+  background-image: url(../../../static/img/bh-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 3px;
+  left: 1414px;
+  position: absolute;
+  top: 496px;
+  width: 1px;
+}
+
+.the-berg-mobile .ad {
+  background-image: url(../../../static/img/ad-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 1095px;
+  position: absolute;
+  top: 364px;
+  width: 2px;
+}
+
+.the-berg-mobile .pw {
+  background-image: url(../../../static/img/pw-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 3px;
+  left: 1964px;
+  position: absolute;
+  top: 646px;
+  width: 1px;
+}
+
+.the-berg-mobile .sc {
+  background-image: url(../../../static/img/sc-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1446px;
+  position: absolute;
+  top: 746px;
+  width: 1px;
+}
+
+.the-berg-mobile .ag {
+  height: 6px;
+  left: 680px;
+  position: absolute;
+  top: 565px;
+  width: 1px;
+}
+
+.the-berg-mobile .div-8 {
+  height: 6px;
+  position: relative;
+}
+
+.the-berg-mobile .bb {
+  background-image: url(../../../static/img/bb-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 695px;
+  position: absolute;
+  top: 601px;
+  width: 1px;
+}
+
+.the-berg-mobile .tc {
+  height: 1px;
+  left: 612px;
+  position: absolute;
+  top: 532px;
+  width: 6px;
+}
+
+.the-berg-mobile .tc-2 {
+  height: 1px;
+  position: relative;
+}
+
+.the-berg-mobile .path-204 {
+  height: 1px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.the-berg-mobile .path-205 {
+  height: 1px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+
+.the-berg-mobile .vc {
+  background-image: url(../../../static/img/vc-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 684px;
+  position: absolute;
+  top: 600px;
+  width: 1px;
+}
+
+.the-berg-mobile .lc {
+  background-image: url(../../../static/img/lc-1-1x-png.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 3px;
+  left: 685px;
+  position: absolute;
+  top: 595px;
+  width: 1px;
+}
+
+.the-berg-mobile .yt {
+  background-image: url(../../../static/img/yt-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 1379px;
+  position: absolute;
+  top: 811px;
+  width: 1px;
+}
+
+.the-berg-mobile .vi {
+  height: 4px;
+  left: 656px;
+  position: absolute;
+  top: 562px;
+  width: 6px;
+}
+
+.the-berg-mobile .vi-2 {
+  height: 4px;
+  position: relative;
+}
+
+.the-berg-mobile .path-206 {
+  height: 1px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 2px;
+}
+
+.the-berg-mobile .gd {
+  background-image: url(../../../static/img/gd-1-1x-png.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 681px;
+  position: absolute;
+  top: 609px;
+  width: 1px;
+}
+
+.the-berg-mobile .mt {
+  background-image: url(../../../static/img/mt-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 1179px;
+  position: absolute;
+  top: 417px;
+  width: 1px;
+}
+
+.the-berg-mobile .mv {
+  background-image: url(../../../static/img/mv-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1525px;
+  position: absolute;
+  top: 685px;
+  width: 1px;
+}
+
+.the-berg-mobile .ky {
+  background-image: url(../../../static/img/ky-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 553px;
+  position: absolute;
+  top: 552px;
+  width: 2px;
+}
+
+.the-berg-mobile .kn {
+  height: 2px;
+  left: 674px;
+  position: absolute;
+  top: 568px;
+  width: 2px;
+}
+
+.the-berg-mobile .kn-2 {
+  height: 2px;
+  position: relative;
+}
+
+.the-berg-mobile .path-207 {
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.the-berg-mobile .ms {
+  background-image: url(../../../static/img/ms-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 678px;
+  position: absolute;
+  top: 573px;
+  width: 1px;
+}
+
+.the-berg-mobile .aw {
+  background-image: url(../../../static/img/aw-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 627px;
+  position: absolute;
+  top: 607px;
+  width: 1px;
+}
+
+.the-berg-mobile .li {
+  background-image: url(../../../static/img/li-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 1147px;
+  position: absolute;
+  top: 327px;
+  width: 1px;
+}
+
+.the-berg-mobile .vg {
+  height: 3px;
+  left: 660px;
+  position: absolute;
+  top: 557px;
+  width: 5px;
+}
+
+.the-berg-mobile .path-208 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 1px;
+}
+
+.the-berg-mobile .sh {
+  background-image: url(../../../static/img/sh-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1041px;
+  position: absolute;
+  top: 846px;
+  width: 1px;
+}
+
+.the-berg-mobile .je {
+  background-image: url(../../../static/img/je-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1071px;
+  position: absolute;
+  top: 311px;
+  width: 1px;
+}
+
+.the-berg-mobile .ai {
+  background-image: url(../../../static/img/path2433-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 672px;
+  position: absolute;
+  top: 561px;
+  width: 1px;
+}
+
+.the-berg-mobile .gg {
+  background-image: url(../../../static/img/gg-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1069px;
+  position: absolute;
+  top: 309px;
+  width: 1px;
+}
+
+.the-berg-mobile .sm {
+  background-image: url(../../../static/img/sm-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1166px;
+  position: absolute;
+  top: 354px;
+  width: 1px;
+}
+
+.the-berg-mobile .nr {
+  background-image: url(../../../static/img/nr-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2162px;
+  position: absolute;
+  top: 692px;
+  width: 1px;
+}
+
+.the-berg-mobile .gi {
+  background-image: url(../../../static/img/gi-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1050px;
+  position: absolute;
+  top: 416px;
+  width: 1px;
+}
+
+.the-berg-mobile .mc {
+  background-image: url(../../../static/img/path-315-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1134px;
+  position: absolute;
+  top: 355px;
+  width: 1px;
+}
+
+.the-berg-mobile .va {
+  background-image: url(../../../static/img/path-327-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1167px;
+  position: absolute;
+  top: 371px;
+  width: 1px;
+}
+
+.the-berg-mobile .im {
+  background-image: url(../../../static/img/im-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 1053px;
+  position: absolute;
+  top: 271px;
+  width: 3px;
+}
+
+.the-berg-mobile .sg {
+  height: 341px;
+  left: 1347px;
+  position: absolute;
+  top: 357px;
+  width: 419px;
+}
+
+.the-berg-mobile .sg-2 {
+  height: 1px;
+  left: 417px;
+  object-fit: cover;
+  position: absolute;
+  top: 340px;
+  width: 2px;
+}
+
+.the-berg-mobile .ge-2 {
+  height: 6px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 10px;
+}
+
+.the-berg-mobile .ge-3 {
+  height: 7px;
+  left: 1368px;
+  object-fit: cover;
+  position: absolute;
+  top: 362px;
+  width: 6px;
+}
+
+.the-berg-mobile .kosovo {
+  height: 11px;
+  left: 1216px;
+  object-fit: cover;
+  position: absolute;
+  top: 361px;
+  width: 10px;
+}
+
+.the-berg-mobile .cl {
+  height: 309px;
+  left: 590px;
+  object-fit: cover;
+  position: absolute;
+  top: 850px;
+  width: 60px;
+}
+
+.the-berg-mobile .ar {
+  height: 267px;
+  left: 604px;
+  position: absolute;
+  top: 885px;
+  width: 130px;
+}
+
+.the-berg-mobile .overlap-26 {
+  height: 245px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 130px;
+}
+
+.the-berg-mobile .path-209 {
+  height: 1px;
+  left: 75px;
+  object-fit: cover;
+  position: absolute;
+  top: 139px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-210 {
+  height: 1px;
+  left: 75px;
+  object-fit: cover;
+  position: absolute;
+  top: 140px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-211 {
+  height: 245px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 130px;
+}
+
+.the-berg-mobile .path-212 {
+  height: 22px;
+  left: 32px;
+  object-fit: cover;
+  position: absolute;
+  top: 246px;
+  width: 22px;
+}
+
+.the-berg-mobile .path-213 {
+  height: 1px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: 263px;
+  width: 6px;
+}
+
+.the-berg-mobile .borders {
+  height: 1008px;
+  left: 482px;
+  object-fit: cover;
+  position: absolute;
+  top: 145px;
+  width: 1524px;
+}
+
+.the-berg-mobile .special-borders {
+  height: 1px;
+  left: 1001px;
+  position: absolute;
+  top: 484px;
+  width: 28px;
+}
+
+.the-berg-mobile .eh-2 {
+  height: 2px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 29px;
+}
+
+.the-berg-mobile .states {
+  height: 276px;
+  left: 1817px;
+  position: absolute;
+  top: 782px;
+  width: 275px;
+}
+
+.the-berg-mobile .path-214 {
+  height: 3px;
+  left: 272px;
+  object-fit: cover;
+  position: absolute;
+  top: 143px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-215 {
+  height: 3px;
+  left: 272px;
+  object-fit: cover;
+  position: absolute;
+  top: 146px;
+  width: 1px;
+}
+
+.the-berg-mobile .overlap-27 {
+  height: 222px;
+  left: 110px;
+  position: absolute;
+  top: 15px;
+  width: 164px;
+}
+
+.the-berg-mobile .path-216 {
+  height: 9px;
+  left: 159px;
+  object-fit: cover;
+  position: absolute;
+  top: 109px;
+  width: 3px;
+}
+
+.the-berg-mobile .path-217 {
+  height: 1px;
+  left: 159px;
+  object-fit: cover;
+  position: absolute;
+  top: 114px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-218 {
+  height: 1px;
+  left: 142px;
+  object-fit: cover;
+  position: absolute;
+  top: 89px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-219 {
+  height: 1px;
+  left: 142px;
+  object-fit: cover;
+  position: absolute;
+  top: 90px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-220 {
+  height: 1px;
+  left: 141px;
+  object-fit: cover;
+  position: absolute;
+  top: 86px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-221 {
+  height: 1px;
+  left: 141px;
+  object-fit: cover;
+  position: absolute;
+  top: 85px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-222 {
+  height: 1px;
+  left: 140px;
+  object-fit: cover;
+  position: absolute;
+  top: 200px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-223 {
+  height: 1px;
+  left: 139px;
+  object-fit: cover;
+  position: absolute;
+  top: 89px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-224 {
+  height: 1px;
+  left: 138px;
+  object-fit: cover;
+  position: absolute;
+  top: 88px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-225 {
+  height: 1px;
+  left: 137px;
+  object-fit: cover;
+  position: absolute;
+  top: 91px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-226 {
+  height: 6px;
+  left: 131px;
+  object-fit: cover;
+  position: absolute;
+  top: 193px;
+  width: 4px;
+}
+
+.the-berg-mobile .path-227 {
+  height: 1px;
+  left: 132px;
+  object-fit: cover;
+  position: absolute;
+  top: 75px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-228 {
+  height: 1px;
+  left: 132px;
+  object-fit: cover;
+  position: absolute;
+  top: 73px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-229 {
+  height: 1px;
+  left: 131px;
+  object-fit: cover;
+  position: absolute;
+  top: 72px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-230 {
+  height: 1px;
+  left: 129px;
+  object-fit: cover;
+  position: absolute;
+  top: 72px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-231 {
+  height: 1px;
+  left: 117px;
+  object-fit: cover;
+  position: absolute;
+  top: 65px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-232 {
+  height: 1px;
+  left: 115px;
+  object-fit: cover;
+  position: absolute;
+  top: 221px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-233 {
+  height: 2px;
+  left: 113px;
+  object-fit: cover;
+  position: absolute;
+  top: 58px;
+  width: 2px;
+}
+
+.the-berg-mobile .path-234 {
+  height: 1px;
+  left: 107px;
+  object-fit: cover;
+  position: absolute;
+  top: 218px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-235 {
+  height: 1px;
+  left: 106px;
+  object-fit: cover;
+  position: absolute;
+  top: 219px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-236 {
+  height: 1px;
+  left: 95px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-237 {
+  height: 1px;
+  left: 94px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-238 {
+  height: 144px;
+  left: 59px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 101px;
+}
+
+.the-berg-mobile .path-239 {
+  height: 72px;
+  left: 82px;
+  object-fit: cover;
+  position: absolute;
+  top: 138px;
+  width: 82px;
+}
+
+.the-berg-mobile .path-240 {
+  height: 37px;
+  left: 80px;
+  object-fit: cover;
+  position: absolute;
+  top: 185px;
+  width: 55px;
+}
+
+.the-berg-mobile .path-241 {
+  height: 1px;
+  left: 68px;
+  object-fit: cover;
+  position: absolute;
+  top: 48px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-242 {
+  height: 2px;
+  left: 65px;
+  object-fit: cover;
+  position: absolute;
+  top: 196px;
+  width: 2px;
+}
+
+.the-berg-mobile .path-243 {
+  height: 3px;
+  left: 66px;
+  object-fit: cover;
+  position: absolute;
+  top: 43px;
+  width: 4px;
+}
+
+.the-berg-mobile .path-244 {
+  height: 1px;
+  left: 66px;
+  object-fit: cover;
+  position: absolute;
+  top: 46px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-245 {
+  height: 5px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 196px;
+  width: 5px;
+}
+
+.the-berg-mobile .path-246 {
+  height: 4px;
+  left: 49px;
+  object-fit: cover;
+  position: absolute;
+  top: 196px;
+  width: 11px;
+}
+
+.the-berg-mobile .path-247 {
+  height: 1px;
+  left: 54px;
+  object-fit: cover;
+  position: absolute;
+  top: 187px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-248 {
+  height: 1px;
+  left: 48px;
+  object-fit: cover;
+  position: absolute;
+  top: 193px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-249 {
+  height: 1px;
+  left: 47px;
+  object-fit: cover;
+  position: absolute;
+  top: 189px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-250 {
+  height: 1px;
+  left: 47px;
+  object-fit: cover;
+  position: absolute;
+  top: 188px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-251 {
+  height: 1px;
+  left: 45px;
+  object-fit: cover;
+  position: absolute;
+  top: 191px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-252 {
+  height: 1px;
+  left: 35px;
+  object-fit: cover;
+  position: absolute;
+  top: 181px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-253 {
+  height: 95px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 121px;
+  width: 79px;
+}
+
+.the-berg-mobile .path-254 {
+  height: 1px;
+  left: 28px;
+  object-fit: cover;
+  position: absolute;
+  top: 169px;
+  width: 1px;
+}
+
+.the-berg-mobile .overlap-28 {
+  height: 27px;
+  left: 213px;
+  position: absolute;
+  top: 249px;
+  width: 26px;
+}
+
+.the-berg-mobile .path-255 {
+  height: 2px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 3px;
+}
+
+.the-berg-mobile .path-256 {
+  height: 1px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 16px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-257 {
+  height: 1px;
+  left: 23px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-258 {
+  height: 1px;
+  left: 23px;
+  object-fit: cover;
+  position: absolute;
+  top: 18px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-259 {
+  height: 3px;
+  left: 20px;
+  object-fit: cover;
+  position: absolute;
+  top: 21px;
+  width: 3px;
+}
+
+.the-berg-mobile .path-260 {
+  height: 1px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-261 {
+  height: 2px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: 24px;
+  width: 2px;
+}
+
+.the-berg-mobile .path-262 {
+  height: 25px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 25px;
+}
+
+.the-berg-mobile .path-263 {
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-264 {
+  height: 5px;
+  left: 234px;
+  object-fit: cover;
+  position: absolute;
+  top: 244px;
+  width: 4px;
+}
+
+.the-berg-mobile .path-wrapper {
+  background-image: url(../../../static/img/path-313-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 232px;
+  position: absolute;
+  top: 242px;
+  width: 1px;
+}
+
+.the-berg-mobile .overlap-29 {
+  height: 2px;
+  left: 214px;
+  position: absolute;
+  top: 250px;
+  width: 2px;
+}
+
+.the-berg-mobile .path-265 {
+  height: 2px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.the-berg-mobile .overlap-30 {
+  height: 1px;
+  left: 210px;
+  position: absolute;
+  top: 2px;
+  width: 2px;
+}
+
+.the-berg-mobile .img-wrapper {
+  background-image: url(../../../static/img/path-327-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 209px;
+  position: absolute;
+  top: 6px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-266 {
+  height: 4px;
+  left: 208px;
+  object-fit: cover;
+  position: absolute;
+  top: 243px;
+  width: 2px;
+}
+
+.the-berg-mobile .path-267 {
+  height: 1px;
+  left: 208px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.the-berg-mobile .path-268 {
+  height: 1px;
+  left: 208px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-269 {
+  height: 1px;
+  left: 206px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-270 {
+  height: 1px;
+  left: 205px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-271 {
+  height: 1px;
+  left: 204px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.the-berg-mobile .overlap-31 {
+  background-image: url(../../../static/img/path-327-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 204px;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+
+.the-berg-mobile .overlap-32 {
+  height: 3px;
+  left: 200px;
+  position: absolute;
+  top: 5px;
+  width: 3px;
+}
+
+.the-berg-mobile .path-272 {
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-273 {
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.the-berg-mobile .overlap-33 {
+  height: 2px;
+  left: 200px;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-274 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-275 {
+  height: 1px;
+  left: 199px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-276 {
+  height: 1px;
+  left: 198px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.the-berg-mobile .overlap-34 {
+  height: 2px;
+  left: 197px;
+  position: absolute;
+  top: 11px;
+  width: 2px;
+}
+
+.the-berg-mobile .overlap-35 {
+  height: 2px;
+  left: 198px;
+  position: absolute;
+  top: 13px;
+  width: 1px;
+}
+
+.the-berg-mobile .overlap-36 {
+  height: 2px;
+  left: 196px;
+  position: absolute;
+  top: 8px;
+  width: 2px;
+}
+
+.the-berg-mobile .overlap-37 {
+  background-image: url(../../../static/img/path-327-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 196px;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+
+.the-berg-mobile .overlap-38 {
+  height: 2px;
+  left: 193px;
+  position: absolute;
+  top: 3px;
+  width: 1px;
+}
+
+.the-berg-mobile .overlap-39 {
+  height: 119px;
+  left: 109px;
+  position: absolute;
+  top: 15px;
+  width: 58px;
+}
+
+.the-berg-mobile .path-277 {
+  height: 2px;
+  left: 53px;
+  object-fit: cover;
+  position: absolute;
+  top: 37px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-278 {
+  height: 1px;
+  left: 52px;
+  object-fit: cover;
+  position: absolute;
+  top: 36px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-279 {
+  height: 1px;
+  left: 52px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-280 {
+  height: 1px;
+  left: 52px;
+  object-fit: cover;
+  position: absolute;
+  top: 37px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-281 {
+  height: 1px;
+  left: 51px;
+  object-fit: cover;
+  position: absolute;
+  top: 37px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-282 {
+  height: 1px;
+  left: 51px;
+  object-fit: cover;
+  position: absolute;
+  top: 38px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-283 {
+  height: 1px;
+  left: 50px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-284 {
+  height: 3px;
+  left: 50px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 2px;
+}
+
+.the-berg-mobile .path-285 {
+  height: 1px;
+  left: 50px;
+  object-fit: cover;
+  position: absolute;
+  top: 36px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-286 {
+  height: 5px;
+  left: 49px;
+  object-fit: cover;
+  position: absolute;
+  top: 21px;
+  width: 4px;
+}
+
+.the-berg-mobile .path-287 {
+  height: 1px;
+  left: 50px;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-288 {
+  height: 1px;
+  left: 50px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-289 {
+  height: 1px;
+  left: 49px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-290 {
+  height: 2px;
+  left: 48px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 2px;
+}
+
+.the-berg-mobile .path-291 {
+  height: 1px;
+  left: 47px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-292 {
+  height: 1px;
+  left: 48px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-293 {
+  height: 1px;
+  left: 47px;
+  object-fit: cover;
+  position: absolute;
+  top: 19px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-294 {
+  height: 1px;
+  left: 47px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-295 {
+  height: 1px;
+  left: 47px;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-296 {
+  height: 1px;
+  left: 46px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-297 {
+  height: 1px;
+  left: 46px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-298 {
+  height: 1px;
+  left: 45px;
+  object-fit: cover;
+  position: absolute;
+  top: 31px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-299 {
+  height: 1px;
+  left: 40px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-300 {
+  height: 1px;
+  left: 39px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-301 {
+  height: 1px;
+  left: 39px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-302 {
+  height: 1px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-303 {
+  height: 1px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-304 {
+  height: 1px;
+  left: 23px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-305 {
+  height: 3px;
+  left: 23px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.the-berg-mobile .path-306 {
+  height: 1px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-307 {
+  height: 1px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-308 {
+  height: 1px;
+  left: 20px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 1px;
+}
+
+.the-berg-mobile .group {
+  height: 6px;
+  left: 6px;
+  position: absolute;
+  top: 2px;
+  width: 10px;
+}
+
+.the-berg-mobile .path-309 {
+  height: 6px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 8px;
+}
+
+.the-berg-mobile .path-310 {
+  height: 4px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 4px;
+}
+
+.the-berg-mobile .path-311 {
+  height: 1px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 31px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-312 {
+  height: 1px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-313 {
+  height: 117px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 58px;
+}
+
+.the-berg-mobile .path-314 {
+  height: 1px;
+  left: 134px;
+  object-fit: cover;
+  position: absolute;
+  top: 16px;
+  width: 1px;
+}
+
+.the-berg-mobile .overlap-40 {
+  height: 168px;
+  left: 0;
+  position: absolute;
+  top: 40px;
+  width: 105px;
+}
+
+.the-berg-mobile .path-315 {
+  height: 1px;
+  left: 104px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-316 {
+  height: 1px;
+  left: 103px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-317 {
+  height: 1px;
+  left: 102px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-318 {
+  height: 1px;
+  left: 88px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-319 {
+  height: 1px;
+  left: 88px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-320 {
+  height: 1px;
+  left: 85px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-321 {
+  height: 2px;
+  left: 82px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-322 {
+  height: 1px;
+  left: 81px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-323 {
+  height: 1px;
+  left: 81px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-324 {
+  height: 1px;
+  left: 81px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-325 {
+  height: 1px;
+  left: 80px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-326 {
+  height: 1px;
+  left: 80px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-327 {
+  height: 1px;
+  left: 80px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-328 {
+  height: 2px;
+  left: 78px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-329 {
+  height: 1px;
+  left: 77px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-330 {
+  height: 1px;
+  left: 77px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-331 {
+  height: 1px;
+  left: 76px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-332 {
+  height: 1px;
+  left: 72px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-333 {
+  height: 1px;
+  left: 69px;
+  object-fit: cover;
+  position: absolute;
+  top: 160px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-334 {
+  height: 2px;
+  left: 69px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-335 {
+  height: 1px;
+  left: 63px;
+  object-fit: cover;
+  position: absolute;
+  top: 160px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-336 {
+  height: 1px;
+  left: 37px;
+  object-fit: cover;
+  position: absolute;
+  top: 166px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-337 {
+  height: 1px;
+  left: 26px;
+  object-fit: cover;
+  position: absolute;
+  top: 50px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-338 {
+  height: 1px;
+  left: 26px;
+  object-fit: cover;
+  position: absolute;
+  top: 51px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-339 {
+  height: 1px;
+  left: 25px;
+  object-fit: cover;
+  position: absolute;
+  top: 52px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-340 {
+  height: 1px;
+  left: 25px;
+  object-fit: cover;
+  position: absolute;
+  top: 51px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-341 {
+  height: 1px;
+  left: 25px;
+  object-fit: cover;
+  position: absolute;
+  top: 53px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-342 {
+  height: 1px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 52px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-343 {
+  height: 1px;
+  left: 19px;
+  object-fit: cover;
+  position: absolute;
+  top: 144px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-344 {
+  height: 1px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  top: 51px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-345 {
+  height: 2px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 52px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-346 {
+  height: 1px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 93px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-347 {
+  height: 1px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 115px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-348 {
+  height: 168px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 99px;
+}
+
+.the-berg-mobile .path-349 {
+  height: 6px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 91px;
+  width: 2px;
+}
+
+.the-berg-mobile .path-350 {
+  height: 5px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 95px;
+  width: 3px;
+}
+
+.the-berg-mobile .path-351 {
+  height: 5px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 91px;
+  width: 2px;
+}
+
+.the-berg-mobile .path-352 {
+  height: 1px;
+  left: 91px;
+  object-fit: cover;
+  position: absolute;
+  top: 38px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-353 {
+  height: 1px;
+  left: 88px;
+  object-fit: cover;
+  position: absolute;
+  top: 35px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-354 {
+  height: 2px;
+  left: 86px;
+  object-fit: cover;
+  position: absolute;
+  top: 37px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-355 {
+  height: 2px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 125px;
+  width: 1px;
+}
+
+.the-berg-mobile .overlap-41 {
+  background-image: url(../../../static/img/path-326-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 1px;
+  position: absolute;
+  top: 127px;
+  width: 1px;
+}
+
+.the-berg-mobile .div-9 {
+  height: 590px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 679px;
+}
+
+.the-berg-mobile .AK {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 611px;
+  position: absolute;
+  top: 488px;
+  width: 1px;
+}
+
+.the-berg-mobile .MB {
+  height: 89px;
+  left: 400px;
+  object-fit: cover;
+  position: absolute;
+  top: 245px;
+  width: 65px;
+}
+
+.the-berg-mobile .SK {
+  height: 90px;
+  left: 354px;
+  object-fit: cover;
+  position: absolute;
+  top: 244px;
+  width: 50px;
+}
+
+.the-berg-mobile .AB {
+  height: 94px;
+  left: 305px;
+  object-fit: cover;
+  position: absolute;
+  top: 238px;
+  width: 58px;
+}
+
+.the-berg-mobile .BC {
+  height: 116px;
+  left: 232px;
+  object-fit: cover;
+  position: absolute;
+  top: 213px;
+  width: 99px;
+}
+
+.the-berg-mobile .NU {
+  height: 298px;
+  left: 331px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 241px;
+}
+
+.the-berg-mobile .NT {
+  height: 181px;
+  left: 270px;
+  object-fit: cover;
+  position: absolute;
+  top: 65px;
+  width: 131px;
+}
+
+.the-berg-mobile .YT {
+  height: 102px;
+  left: 225px;
+  object-fit: cover;
+  position: absolute;
+  top: 133px;
+  width: 75px;
+}
+
+.the-berg-mobile .ON {
+  height: 109px;
+  left: 437px;
+  object-fit: cover;
+  position: absolute;
+  top: 267px;
+  width: 128px;
+}
+
+.the-berg-mobile .QC {
+  height: 133px;
+  left: 506px;
+  object-fit: cover;
+  position: absolute;
+  top: 210px;
+  width: 133px;
+}
+
+.the-berg-mobile .NB {
+  height: 27px;
+  left: 590px;
+  object-fit: cover;
+  position: absolute;
+  top: 304px;
+  width: 33px;
+}
+
+.the-berg-mobile .NS {
+  height: 36px;
+  left: 615px;
+  object-fit: cover;
+  position: absolute;
+  top: 302px;
+  width: 30px;
+}
+
+.the-berg-mobile .NL {
+  height: 82px;
+  left: 571px;
+  object-fit: cover;
+  position: absolute;
+  top: 212px;
+  width: 108px;
+}
+
+.the-berg-mobile .PE {
+  height: 5px;
+  left: 618px;
+  object-fit: cover;
+  position: absolute;
+  top: 309px;
+  width: 14px;
+}
+
+.the-berg-mobile .MA {
+  height: 11px;
+  left: 577px;
+  object-fit: cover;
+  position: absolute;
+  top: 352px;
+  width: 23px;
+}
+
+.the-berg-mobile .MN {
+  height: 45px;
+  left: 426px;
+  object-fit: cover;
+  position: absolute;
+  top: 329px;
+  width: 45px;
+}
+
+.the-berg-mobile .MT {
+  height: 38px;
+  left: 318px;
+  object-fit: cover;
+  position: absolute;
+  top: 327px;
+  width: 70px;
+}
+
+.the-berg-mobile .ND {
+  height: 24px;
+  left: 387px;
+  object-fit: cover;
+  position: absolute;
+  top: 333px;
+  width: 45px;
+}
+
+.the-berg-mobile .ID {
+  height: 57px;
+  left: 303px;
+  object-fit: cover;
+  position: absolute;
+  top: 327px;
+  width: 40px;
+}
+
+.the-berg-mobile .WA {
+  height: 29px;
+  left: 269px;
+  object-fit: cover;
+  position: absolute;
+  top: 321px;
+  width: 45px;
+}
+
+.the-berg-mobile .AZ {
+  height: 46px;
+  left: 304px;
+  object-fit: cover;
+  position: absolute;
+  top: 419px;
+  width: 45px;
+}
+
+.the-berg-mobile .CA {
+  height: 79px;
+  left: 254px;
+  object-fit: cover;
+  position: absolute;
+  top: 371px;
+  width: 58px;
+}
+
+.the-berg-mobile .CO {
+  height: 32px;
+  left: 350px;
+  object-fit: cover;
+  position: absolute;
+  top: 392px;
+  width: 48px;
+}
+
+.the-berg-mobile .NV {
+  height: 57px;
+  left: 279px;
+  object-fit: cover;
+  position: absolute;
+  top: 376px;
+  width: 43px;
+}
+
+.the-berg-mobile .NM {
+  height: 43px;
+  left: 345px;
+  object-fit: cover;
+  position: absolute;
+  top: 422px;
+  width: 46px;
+}
+
+.the-berg-mobile .OR {
+  height: 39px;
+  left: 257px;
+  object-fit: cover;
+  position: absolute;
+  top: 340px;
+  width: 54px;
+}
+
+.the-berg-mobile .UT {
+  height: 41px;
+  left: 316px;
+  object-fit: cover;
+  position: absolute;
+  top: 381px;
+  width: 37px;
+}
+
+.the-berg-mobile .WY {
+  height: 33px;
+  left: 340px;
+  object-fit: cover;
+  position: absolute;
+  top: 361px;
+  width: 46px;
+}
+
+.the-berg-mobile .AR {
+  height: 28px;
+  left: 448px;
+  object-fit: cover;
+  position: absolute;
+  top: 424px;
+  width: 35px;
+}
+
+.the-berg-mobile .IA {
+  height: 24px;
+  left: 432px;
+  object-fit: cover;
+  position: absolute;
+  top: 372px;
+  width: 42px;
+}
+
+.the-berg-mobile .KS {
+  height: 24px;
+  left: 397px;
+  object-fit: cover;
+  position: absolute;
+  top: 400px;
+  width: 51px;
+}
+
+.the-berg-mobile .MO {
+  height: 34px;
+  left: 438px;
+  object-fit: cover;
+  position: absolute;
+  top: 394px;
+  width: 47px;
+}
+
+.the-berg-mobile .NE {
+  height: 23px;
+  left: 385px;
+  object-fit: cover;
+  position: absolute;
+  top: 379px;
+  width: 57px;
+}
+
+.the-berg-mobile .OK {
+  height: 25px;
+  left: 391px;
+  object-fit: cover;
+  position: absolute;
+  top: 423px;
+  width: 60px;
+}
+
+.the-berg-mobile .SD {
+  height: 26px;
+  left: 386px;
+  object-fit: cover;
+  position: absolute;
+  top: 356px;
+  width: 48px;
+}
+
+.the-berg-mobile .LA {
+  height: 29px;
+  left: 454px;
+  object-fit: cover;
+  position: absolute;
+  top: 450px;
+  width: 39px;
+}
+
+.the-berg-mobile .TX {
+  height: 79px;
+  left: 363px;
+  object-fit: cover;
+  position: absolute;
+  top: 427px;
+  width: 96px;
+}
+
+.the-berg-mobile .CT {
+  height: 10px;
+  left: 578px;
+  object-fit: cover;
+  position: absolute;
+  top: 360px;
+  width: 12px;
+}
+
+.the-berg-mobile .NH {
+  height: 21px;
+  left: 581px;
+  object-fit: cover;
+  position: absolute;
+  top: 335px;
+  width: 11px;
+}
+
+.the-berg-mobile .RI {
+  height: 6px;
+  left: 588px;
+  object-fit: cover;
+  position: absolute;
+  top: 359px;
+  width: 5px;
+}
+
+.the-berg-mobile .VT {
+  height: 19px;
+  left: 571px;
+  object-fit: cover;
+  position: absolute;
+  top: 338px;
+  width: 12px;
+}
+
+.the-berg-mobile .AL {
+  height: 37px;
+  left: 494px;
+  object-fit: cover;
+  position: absolute;
+  top: 431px;
+  width: 27px;
+}
+
+.the-berg-mobile .FL {
+  height: 40px;
+  left: 502px;
+  object-fit: cover;
+  position: absolute;
+  top: 457px;
+  width: 64px;
+}
+
+.the-berg-mobile .GA {
+  height: 33px;
+  left: 512px;
+  object-fit: cover;
+  position: absolute;
+  top: 428px;
+  width: 38px;
+}
+
+.the-berg-mobile .MS {
+  height: 37px;
+  left: 473px;
+  object-fit: cover;
+  position: absolute;
+  top: 433px;
+  width: 24px;
+}
+
+.the-berg-mobile .SC {
+  height: 22px;
+  left: 527px;
+  object-fit: cover;
+  position: absolute;
+  top: 424px;
+  width: 35px;
+}
+
+.the-berg-mobile .IL {
+  height: 42px;
+  left: 467px;
+  object-fit: cover;
+  position: absolute;
+  top: 377px;
+  width: 28px;
+}
+
+.the-berg-mobile .IN {
+  height: 32px;
+  left: 491px;
+  object-fit: cover;
+  position: absolute;
+  top: 380px;
+  width: 21px;
+}
+
+.the-berg-mobile .KY {
+  height: 24px;
+  left: 484px;
+  object-fit: cover;
+  position: absolute;
+  top: 400px;
+  width: 49px;
+}
+
+.the-berg-mobile .NC {
+  height: 23px;
+  left: 520px;
+  object-fit: cover;
+  position: absolute;
+  top: 406px;
+  width: 58px;
+}
+
+.the-berg-mobile .OH {
+  height: 29px;
+  left: 508px;
+  object-fit: cover;
+  position: absolute;
+  top: 373px;
+  width: 29px;
+}
+
+.the-berg-mobile .TN {
+  height: 21px;
+  left: 479px;
+  object-fit: cover;
+  position: absolute;
+  top: 414px;
+  width: 57px;
+}
+
+.the-berg-mobile .VA {
+  height: 28px;
+  left: 523px;
+  object-fit: cover;
+  position: absolute;
+  top: 389px;
+  width: 52px;
+}
+
+.the-berg-mobile .WI {
+  height: 33px;
+  left: 454px;
+  object-fit: cover;
+  position: absolute;
+  top: 346px;
+  width: 35px;
+}
+
+.the-berg-mobile .WV {
+  height: 27px;
+  left: 527px;
+  object-fit: cover;
+  position: absolute;
+  top: 383px;
+  width: 30px;
+}
+
+.the-berg-mobile .DE {
+  height: 10px;
+  left: 569px;
+  object-fit: cover;
+  position: absolute;
+  top: 382px;
+  width: 7px;
+}
+
+.the-berg-mobile .DC {
+  height: 1px;
+  left: 562px;
+  object-fit: cover;
+  position: absolute;
+  top: 390px;
+  width: 1px;
+}
+
+.the-berg-mobile .MD {
+  height: 13px;
+  left: 545px;
+  object-fit: cover;
+  position: absolute;
+  top: 383px;
+  width: 31px;
+}
+
+.the-berg-mobile .NJ {
+  height: 18px;
+  left: 570px;
+  object-fit: cover;
+  position: absolute;
+  top: 369px;
+  width: 9px;
+}
+
+.the-berg-mobile .NY {
+  height: 33px;
+  left: 539px;
+  object-fit: cover;
+  position: absolute;
+  top: 341px;
+  width: 51px;
+}
+
+.the-berg-mobile .PA {
+  height: 24px;
+  left: 534px;
+  object-fit: cover;
+  position: absolute;
+  top: 366px;
+  width: 40px;
+}
+
+.the-berg-mobile .ME {
+  height: 36px;
+  left: 584px;
+  object-fit: cover;
+  position: absolute;
+  top: 314px;
+  width: 25px;
+}
+
+.the-berg-mobile .MI {
+  height: 47px;
+  left: 468px;
+  object-fit: cover;
+  position: absolute;
+  top: 335px;
+  width: 53px;
+}
+
+.the-berg-mobile .AK-2 {
+  height: 174px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 92px;
+  width: 264px;
+}
+
+.the-berg-mobile .MX {
+  height: 142px;
+  left: 274px;
+  object-fit: cover;
+  position: absolute;
+  top: 448px;
+  width: 248px;
+}
+
+.the-berg-mobile .x {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 578px;
+  position: absolute;
+  top: 373px;
+  width: 1px;
+}
+
+.the-berg-mobile .x-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 566px;
+  position: absolute;
+  top: 491px;
+  width: 1px;
+}
+
+.the-berg-mobile .x-3 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 288px;
+  position: absolute;
+  top: 447px;
+  width: 1px;
+}
+
+.the-berg-mobile .layer {
+  height: 375px;
+  left: 211px;
+  position: absolute;
+  top: 149px;
+  width: 414px;
+}
+
+.the-berg-mobile .MB-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 214px;
+  position: absolute;
+  top: 135px;
+  width: 1px;
+}
+
+.the-berg-mobile .SK-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 169px;
+  position: absolute;
+  top: 142px;
+  width: 1px;
+}
+
+.the-berg-mobile .AB-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 123px;
+  position: absolute;
+  top: 132px;
+  width: 1px;
+}
+
+.the-berg-mobile .BC-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 74px;
+  position: absolute;
+  top: 119px;
+  width: 1px;
+}
+
+.the-berg-mobile .NU-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 206px;
+  position: absolute;
+  top: 50px;
+  width: 1px;
+}
+
+.the-berg-mobile .NT-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 113px;
+  position: absolute;
+  top: 57px;
+  width: 1px;
+}
+
+.the-berg-mobile .YT-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 45px;
+  position: absolute;
+  top: 49px;
+  width: 1px;
+}
+
+.the-berg-mobile .ON-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 269px;
+  position: absolute;
+  top: 155px;
+  width: 1px;
+}
+
+.the-berg-mobile .QC-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 346px;
+  position: absolute;
+  top: 137px;
+  width: 1px;
+}
+
+.the-berg-mobile .NB-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 397px;
+  position: absolute;
+  top: 168px;
+  width: 1px;
+}
+
+.the-berg-mobile .NS-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 410px;
+  position: absolute;
+  top: 180px;
+  width: 1px;
+}
+
+.the-berg-mobile .NL-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 395px;
+  position: absolute;
+  top: 104px;
+  width: 1px;
+}
+
+.the-berg-mobile .PE-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 414px;
+  position: absolute;
+  top: 163px;
+  width: 1px;
+}
+
+.the-berg-mobile .MA-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 377px;
+  position: absolute;
+  top: 208px;
+  width: 1px;
+}
+
+.the-berg-mobile .MN-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 233px;
+  position: absolute;
+  top: 201px;
+  width: 1px;
+}
+
+.the-berg-mobile .MT-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 143px;
+  position: absolute;
+  top: 197px;
+  width: 1px;
+}
+
+.the-berg-mobile .ND-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 197px;
+  position: absolute;
+  top: 196px;
+  width: 1px;
+}
+
+.the-berg-mobile .ID-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 109px;
+  position: absolute;
+  top: 220px;
+  width: 1px;
+}
+
+.the-berg-mobile .WA-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 83px;
+  position: absolute;
+  top: 186px;
+  width: 1px;
+}
+
+.the-berg-mobile .AZ-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 119px;
+  position: absolute;
+  top: 291px;
+  width: 1px;
+}
+
+.the-berg-mobile .CA-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 67px;
+  position: absolute;
+  top: 267px;
+  width: 1px;
+}
+
+.the-berg-mobile .CO-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 164px;
+  position: absolute;
+  top: 259px;
+  width: 1px;
+}
+
+.the-berg-mobile .NV-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 91px;
+  position: absolute;
+  top: 249px;
+  width: 1px;
+}
+
+.the-berg-mobile .NM-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 158px;
+  position: absolute;
+  top: 293px;
+  width: 1px;
+}
+
+.the-berg-mobile .OR-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 74px;
+  position: absolute;
+  top: 212px;
+  width: 1px;
+}
+
+.the-berg-mobile .UT-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 124px;
+  position: absolute;
+  top: 255px;
+  width: 1px;
+}
+
+.the-berg-mobile .WY-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 153px;
+  position: absolute;
+  top: 228px;
+  width: 1px;
+}
+
+.the-berg-mobile .AR-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 253px;
+  position: absolute;
+  top: 287px;
+  width: 1px;
+}
+
+.the-berg-mobile .IA-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 242px;
+  position: absolute;
+  top: 235px;
+  width: 1px;
+}
+
+.the-berg-mobile .KS-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 212px;
+  position: absolute;
+  top: 263px;
+  width: 1px;
+}
+
+.the-berg-mobile .MO-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 251px;
+  position: absolute;
+  top: 263px;
+  width: 1px;
+}
+
+.the-berg-mobile .NE-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 202px;
+  position: absolute;
+  top: 241px;
+  width: 1px;
+}
+
+.the-berg-mobile .OK-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 222px;
+  position: absolute;
+  top: 285px;
+  width: 1px;
+}
+
+.the-berg-mobile .SD-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 199px;
+  position: absolute;
+  top: 219px;
+  width: 1px;
+}
+
+.the-berg-mobile .LA-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 255px;
+  position: absolute;
+  top: 310px;
+  width: 1px;
+}
+
+.the-berg-mobile .TX-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 213px;
+  position: absolute;
+  top: 319px;
+  width: 1px;
+}
+
+.the-berg-mobile .CT-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 373px;
+  position: absolute;
+  top: 215px;
+  width: 1px;
+}
+
+.the-berg-mobile .NH-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 375px;
+  position: absolute;
+  top: 199px;
+  width: 1px;
+}
+
+.the-berg-mobile .RI-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 380px;
+  position: absolute;
+  top: 212px;
+  width: 1px;
+}
+
+.the-berg-mobile .VT-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 367px;
+  position: absolute;
+  top: 197px;
+  width: 1px;
+}
+
+.the-berg-mobile .AL-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 296px;
+  position: absolute;
+  top: 299px;
+  width: 1px;
+}
+
+.the-berg-mobile .FL-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 339px;
+  position: absolute;
+  top: 323px;
+  width: 1px;
+}
+
+.the-berg-mobile .GA-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 321px;
+  position: absolute;
+  top: 296px;
+  width: 1px;
+}
+
+.the-berg-mobile .MS-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 275px;
+  position: absolute;
+  top: 301px;
+  width: 1px;
+}
+
+.the-berg-mobile .SC-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 337px;
+  position: absolute;
+  top: 284px;
+  width: 1px;
+}
+
+.the-berg-mobile .IL-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 270px;
+  position: absolute;
+  top: 246px;
+  width: 1px;
+}
+
+.the-berg-mobile .IN-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 291px;
+  position: absolute;
+  top: 246px;
+  width: 1px;
+}
+
+.the-berg-mobile .KY-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 306px;
+  position: absolute;
+  top: 260px;
+  width: 1px;
+}
+
+.the-berg-mobile .NC-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 350px;
+  position: absolute;
+  top: 269px;
+  width: 1px;
+}
+
+.the-berg-mobile .OH-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 311px;
+  position: absolute;
+  top: 241px;
+  width: 1px;
+}
+
+.the-berg-mobile .TN-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 295px;
+  position: absolute;
+  top: 276px;
+  width: 1px;
+}
+
+.the-berg-mobile .VA-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 342px;
+  position: absolute;
+  top: 255px;
+  width: 1px;
+}
+
+.the-berg-mobile .WI-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 262px;
+  position: absolute;
+  top: 212px;
+  width: 1px;
+}
+
+.the-berg-mobile .WV-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 328px;
+  position: absolute;
+  top: 249px;
+  width: 1px;
+}
+
+.the-berg-mobile .DE-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 363px;
+  position: absolute;
+  top: 240px;
+  width: 1px;
+}
+
+.the-berg-mobile .DC-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 352px;
+  position: absolute;
+  top: 241px;
+  width: 1px;
+}
+
+.the-berg-mobile .MD-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 352px;
+  position: absolute;
+  top: 238px;
+  width: 1px;
+}
+
+.the-berg-mobile .NJ-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 365px;
+  position: absolute;
+  top: 231px;
+  width: 1px;
+}
+
+.the-berg-mobile .NY-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 357px;
+  position: absolute;
+  top: 208px;
+  width: 1px;
+}
+
+.the-berg-mobile .PA-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 343px;
+  position: absolute;
+  top: 228px;
+  width: 1px;
+}
+
+.the-berg-mobile .ME-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 384px;
+  position: absolute;
+  top: 182px;
+  width: 1px;
+}
+
+.the-berg-mobile .MI-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 295px;
+  position: absolute;
+  top: 221px;
+  width: 1px;
+}
+
+.the-berg-mobile .AK-3 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.the-berg-mobile .MX-2 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 187px;
+  position: absolute;
+  top: 375px;
+  width: 1px;
+}
+
+.the-berg-mobile .overlap-42 {
+  background-image: url(../../../static/img/hi-5.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 12px;
+  left: 138px;
+  position: absolute;
+  top: 420px;
+  width: 51px;
+}
+
+.the-berg-mobile .HI {
+  height: 12px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 51px;
+}
+
+.the-berg-mobile .x-4 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 47px;
+  position: absolute;
+  top: 5px;
+  width: 1px;
+}
+
+.the-berg-mobile .x-5 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 21px;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+
+.the-berg-mobile .x-6 {
+  background-color: #bcbcbc;
+  height: 1px;
+  left: 4px;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+
+.the-berg-mobile .overlap-wrapper {
+  height: 498px;
+  left: 0;
+  position: absolute;
+  top: 92px;
+  width: 671px;
+}
+
+.the-berg-mobile .overlap-43 {
+  height: 499px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 672px;
+}
+
+.the-berg-mobile .AK-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 612px;
+  position: absolute;
+  top: 396px;
+  width: 1px;
+}
+
+.the-berg-mobile .MB-3 {
+  height: 90px;
+  left: 401px;
+  object-fit: cover;
+  position: absolute;
+  top: 153px;
+  width: 67px;
+}
+
+.the-berg-mobile .SK-3 {
+  height: 91px;
+  left: 354px;
+  object-fit: cover;
+  position: absolute;
+  top: 152px;
+  width: 51px;
+}
+
+.the-berg-mobile .AB-3 {
+  height: 95px;
+  left: 306px;
+  object-fit: cover;
+  position: absolute;
+  top: 146px;
+  width: 59px;
+}
+
+.the-berg-mobile .BC-3 {
+  height: 118px;
+  left: 232px;
+  object-fit: cover;
+  position: absolute;
+  top: 121px;
+  width: 101px;
+}
+
+.the-berg-mobile .NU-3 {
+  height: 165px;
+  left: 332px;
+  object-fit: cover;
+  position: absolute;
+  top: 43px;
+  width: 241px;
+}
+
+.the-berg-mobile .NT-3 {
+  height: 142px;
+  left: 271px;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 132px;
+}
+
+.the-berg-mobile .YT-3 {
+  height: 103px;
+  left: 225px;
+  object-fit: cover;
+  position: absolute;
+  top: 41px;
+  width: 76px;
+}
+
+.the-berg-mobile .ON-3 {
+  height: 110px;
+  left: 438px;
+  object-fit: cover;
+  position: absolute;
+  top: 175px;
+  width: 129px;
+}
+
+.the-berg-mobile .QC-3 {
+  height: 135px;
+  left: 506px;
+  object-fit: cover;
+  position: absolute;
+  top: 118px;
+  width: 135px;
+}
+
+.the-berg-mobile .NB-3 {
+  height: 29px;
+  left: 591px;
+  object-fit: cover;
+  position: absolute;
+  top: 212px;
+  width: 34px;
+}
+
+.the-berg-mobile .NL-3 {
+  height: 71px;
+  left: 571px;
+  object-fit: cover;
+  position: absolute;
+  top: 121px;
+  width: 101px;
+}
+
+.the-berg-mobile .MA-3 {
+  height: 15px;
+  left: 578px;
+  object-fit: cover;
+  position: absolute;
+  top: 257px;
+  width: 24px;
+}
+
+.the-berg-mobile .MN-3 {
+  height: 46px;
+  left: 427px;
+  object-fit: cover;
+  position: absolute;
+  top: 237px;
+  width: 46px;
+}
+
+.the-berg-mobile .MT-3 {
+  height: 39px;
+  left: 319px;
+  object-fit: cover;
+  position: absolute;
+  top: 236px;
+  width: 73px;
+}
+
+.the-berg-mobile .ND-3 {
+  height: 25px;
+  left: 387px;
+  object-fit: cover;
+  position: absolute;
+  top: 241px;
+  width: 46px;
+}
+
+.the-berg-mobile .ID-3 {
+  height: 58px;
+  left: 304px;
+  object-fit: cover;
+  position: absolute;
+  top: 235px;
+  width: 41px;
+}
+
+.the-berg-mobile .WA-3 {
+  height: 30px;
+  left: 269px;
+  object-fit: cover;
+  position: absolute;
+  top: 229px;
+  width: 46px;
+}
+
+.the-berg-mobile .AZ-3 {
+  height: 47px;
+  left: 305px;
+  object-fit: cover;
+  position: absolute;
+  top: 327px;
+  width: 46px;
+}
+
+.the-berg-mobile .CA-3 {
+  height: 80px;
+  left: 254px;
+  object-fit: cover;
+  position: absolute;
+  top: 279px;
+  width: 59px;
+}
+
+.the-berg-mobile .CO-3 {
+  height: 33px;
+  left: 350px;
+  object-fit: cover;
+  position: absolute;
+  top: 300px;
+  width: 49px;
+}
+
+.the-berg-mobile .NV-3 {
+  height: 58px;
+  left: 280px;
+  object-fit: cover;
+  position: absolute;
+  top: 284px;
+  width: 44px;
+}
+
+.the-berg-mobile .NM-3 {
+  height: 44px;
+  left: 346px;
+  object-fit: cover;
+  position: absolute;
+  top: 330px;
+  width: 47px;
+}
+
+.the-berg-mobile .OR-3 {
+  height: 41px;
+  left: 258px;
+  object-fit: cover;
+  position: absolute;
+  top: 248px;
+  width: 55px;
+}
+
+.the-berg-mobile .UT-3 {
+  height: 42px;
+  left: 317px;
+  object-fit: cover;
+  position: absolute;
+  top: 290px;
+  width: 38px;
+}
+
+.the-berg-mobile .WY-3 {
+  height: 34px;
+  left: 341px;
+  object-fit: cover;
+  position: absolute;
+  top: 269px;
+  width: 47px;
+}
+
+.the-berg-mobile .AR-3 {
+  height: 29px;
+  left: 449px;
+  object-fit: cover;
+  position: absolute;
+  top: 332px;
+  width: 37px;
+}
+
+.the-berg-mobile .IA-3 {
+  height: 25px;
+  left: 433px;
+  object-fit: cover;
+  position: absolute;
+  top: 280px;
+  width: 43px;
+}
+
+.the-berg-mobile .KS-3 {
+  height: 25px;
+  left: 398px;
+  object-fit: cover;
+  position: absolute;
+  top: 308px;
+  width: 52px;
+}
+
+.the-berg-mobile .MO-3 {
+  height: 35px;
+  left: 439px;
+  object-fit: cover;
+  position: absolute;
+  top: 302px;
+  width: 48px;
+}
+
+.the-berg-mobile .NE-3 {
+  height: 24px;
+  left: 386px;
+  object-fit: cover;
+  position: absolute;
+  top: 287px;
+  width: 60px;
+}
+
+.the-berg-mobile .OK-3 {
+  height: 27px;
+  left: 392px;
+  object-fit: cover;
+  position: absolute;
+  top: 330px;
+  width: 61px;
+}
+
+.the-berg-mobile .SD-3 {
+  height: 27px;
+  left: 387px;
+  object-fit: cover;
+  position: absolute;
+  top: 264px;
+  width: 49px;
+}
+
+.the-berg-mobile .LA-3 {
+  height: 30px;
+  left: 455px;
+  object-fit: cover;
+  position: absolute;
+  top: 358px;
+  width: 41px;
+}
+
+.the-berg-mobile .TX-3 {
+  height: 80px;
+  left: 364px;
+  object-fit: cover;
+  position: absolute;
+  top: 335px;
+  width: 97px;
+}
+
+.the-berg-mobile .CT-3 {
+  height: 14px;
+  left: 579px;
+  object-fit: cover;
+  position: absolute;
+  top: 265px;
+  width: 13px;
+}
+
+.the-berg-mobile .NH-3 {
+  height: 22px;
+  left: 582px;
+  object-fit: cover;
+  position: absolute;
+  top: 243px;
+  width: 12px;
+}
+
+.the-berg-mobile .RI-3 {
+  height: 7px;
+  left: 589px;
+  object-fit: cover;
+  position: absolute;
+  top: 267px;
+  width: 7px;
+}
+
+.the-berg-mobile .VT-3 {
+  height: 21px;
+  left: 572px;
+  object-fit: cover;
+  position: absolute;
+  top: 246px;
+  width: 13px;
+}
+
+.the-berg-mobile .AL-3 {
+  height: 39px;
+  left: 495px;
+  object-fit: cover;
+  position: absolute;
+  top: 339px;
+  width: 29px;
+}
+
+.the-berg-mobile .FL-3 {
+  height: 41px;
+  left: 503px;
+  object-fit: cover;
+  position: absolute;
+  top: 365px;
+  width: 65px;
+}
+
+.the-berg-mobile .GA-3 {
+  height: 35px;
+  left: 513px;
+  object-fit: cover;
+  position: absolute;
+  top: 336px;
+  width: 40px;
+}
+
+.the-berg-mobile .MS-3 {
+  height: 40px;
+  left: 473px;
+  object-fit: cover;
+  position: absolute;
+  top: 339px;
+  width: 27px;
+}
+
+.the-berg-mobile .SC-3 {
+  height: 24px;
+  left: 528px;
+  object-fit: cover;
+  position: absolute;
+  top: 333px;
+  width: 37px;
+}
+
+.the-berg-mobile .IL-3 {
+  height: 44px;
+  left: 467px;
+  object-fit: cover;
+  position: absolute;
+  top: 285px;
+  width: 29px;
+}
+
+.the-berg-mobile .IN-3 {
+  height: 33px;
+  left: 491px;
+  object-fit: cover;
+  position: absolute;
+  top: 288px;
+  width: 22px;
+}
+
+.the-berg-mobile .KY-3 {
+  height: 25px;
+  left: 484px;
+  object-fit: cover;
+  position: absolute;
+  top: 308px;
+  width: 51px;
+}
+
+.the-berg-mobile .NC-3 {
+  height: 24px;
+  left: 521px;
+  object-fit: cover;
+  position: absolute;
+  top: 314px;
+  width: 59px;
+}
+
+.the-berg-mobile .OH-3 {
+  height: 30px;
+  left: 509px;
+  object-fit: cover;
+  position: absolute;
+  top: 281px;
+  width: 30px;
+}
+
+.the-berg-mobile .TN-3 {
+  height: 22px;
+  left: 479px;
+  object-fit: cover;
+  position: absolute;
+  top: 322px;
+  width: 60px;
+}
+
+.the-berg-mobile .VA-3 {
+  height: 30px;
+  left: 522px;
+  object-fit: cover;
+  position: absolute;
+  top: 297px;
+  width: 55px;
+}
+
+.the-berg-mobile .WI-3 {
+  height: 34px;
+  left: 455px;
+  object-fit: cover;
+  position: absolute;
+  top: 255px;
+  width: 36px;
+}
+
+.the-berg-mobile .WV-3 {
+  height: 28px;
+  left: 528px;
+  object-fit: cover;
+  position: absolute;
+  top: 291px;
+  width: 31px;
+}
+
+.the-berg-mobile .DE-3 {
+  height: 13px;
+  left: 570px;
+  object-fit: cover;
+  position: absolute;
+  top: 288px;
+  width: 9px;
+}
+
+.the-berg-mobile .DC-3 {
+  height: 2px;
+  left: 563px;
+  object-fit: cover;
+  position: absolute;
+  top: 298px;
+  width: 3px;
+}
+
+.the-berg-mobile .MD-3 {
+  height: 14px;
+  left: 546px;
+  object-fit: cover;
+  position: absolute;
+  top: 291px;
+  width: 32px;
+}
+
+.the-berg-mobile .NJ-3 {
+  height: 19px;
+  left: 571px;
+  object-fit: cover;
+  position: absolute;
+  top: 278px;
+  width: 10px;
+}
+
+.the-berg-mobile .NY-3 {
+  height: 34px;
+  left: 539px;
+  object-fit: cover;
+  position: absolute;
+  top: 249px;
+  width: 53px;
+}
+
+.the-berg-mobile .PA-3 {
+  height: 25px;
+  left: 535px;
+  object-fit: cover;
+  position: absolute;
+  top: 274px;
+  width: 42px;
+}
+
+.the-berg-mobile .ME-3 {
+  height: 37px;
+  left: 585px;
+  object-fit: cover;
+  position: absolute;
+  top: 223px;
+  width: 27px;
+}
+
+.the-berg-mobile .MI-3 {
+  height: 48px;
+  left: 474px;
+  object-fit: cover;
+  position: absolute;
+  top: 243px;
+  width: 48px;
+}
+
+.the-berg-mobile .AK-5 {
+  height: 175px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 266px;
+}
+
+.the-berg-mobile .MX-3 {
+  height: 144px;
+  left: 275px;
+  object-fit: cover;
+  position: absolute;
+  top: 355px;
+  width: 249px;
+}
+
+.the-berg-mobile .x-7 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 579px;
+  position: absolute;
+  top: 281px;
+  width: 1px;
+}
+
+.the-berg-mobile .x-8 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 567px;
+  position: absolute;
+  top: 399px;
+  width: 1px;
+}
+
+.the-berg-mobile .x-9 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 289px;
+  position: absolute;
+  top: 356px;
+  width: 1px;
+}
+
+.the-berg-mobile .layer-2 {
+  height: 375px;
+  left: 212px;
+  position: absolute;
+  top: 58px;
+  width: 414px;
+}
+
+.the-berg-mobile .MB-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 213px;
+  position: absolute;
+  top: 134px;
+  width: 1px;
+}
+
+.the-berg-mobile .SK-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 168px;
+  position: absolute;
+  top: 142px;
+  width: 1px;
+}
+
+.the-berg-mobile .AB-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 122px;
+  position: absolute;
+  top: 132px;
+  width: 1px;
+}
+
+.the-berg-mobile .BC-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 74px;
+  position: absolute;
+  top: 119px;
+  width: 1px;
+}
+
+.the-berg-mobile .NU-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 205px;
+  position: absolute;
+  top: 50px;
+  width: 1px;
+}
+
+.the-berg-mobile .NT-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 113px;
+  position: absolute;
+  top: 57px;
+  width: 1px;
+}
+
+.the-berg-mobile .YT-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 45px;
+  position: absolute;
+  top: 49px;
+  width: 1px;
+}
+
+.the-berg-mobile .ON-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 269px;
+  position: absolute;
+  top: 154px;
+  width: 1px;
+}
+
+.the-berg-mobile .QC-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 345px;
+  position: absolute;
+  top: 136px;
+  width: 1px;
+}
+
+.the-berg-mobile .NB-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 396px;
+  position: absolute;
+  top: 168px;
+  width: 1px;
+}
+
+.the-berg-mobile .NS-3 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 410px;
+  position: absolute;
+  top: 180px;
+  width: 1px;
+}
+
+.the-berg-mobile .NL-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 394px;
+  position: absolute;
+  top: 103px;
+  width: 1px;
+}
+
+.the-berg-mobile .PE-3 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 413px;
+  position: absolute;
+  top: 163px;
+  width: 1px;
+}
+
+.the-berg-mobile .MA-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 376px;
+  position: absolute;
+  top: 208px;
+  width: 1px;
+}
+
+.the-berg-mobile .MN-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 232px;
+  position: absolute;
+  top: 201px;
+  width: 1px;
+}
+
+.the-berg-mobile .MT-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 143px;
+  position: absolute;
+  top: 197px;
+  width: 1px;
+}
+
+.the-berg-mobile .ND-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 197px;
+  position: absolute;
+  top: 195px;
+  width: 1px;
+}
+
+.the-berg-mobile .ID-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 109px;
+  position: absolute;
+  top: 220px;
+  width: 1px;
+}
+
+.the-berg-mobile .WA-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 82px;
+  position: absolute;
+  top: 185px;
+  width: 1px;
+}
+
+.the-berg-mobile .AZ-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 119px;
+  position: absolute;
+  top: 291px;
+  width: 1px;
+}
+
+.the-berg-mobile .CA-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 66px;
+  position: absolute;
+  top: 266px;
+  width: 1px;
+}
+
+.the-berg-mobile .CO-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 163px;
+  position: absolute;
+  top: 259px;
+  width: 1px;
+}
+
+.the-berg-mobile .NV-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 90px;
+  position: absolute;
+  top: 248px;
+  width: 1px;
+}
+
+.the-berg-mobile .NM-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 158px;
+  position: absolute;
+  top: 292px;
+  width: 1px;
+}
+
+.the-berg-mobile .OR-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 73px;
+  position: absolute;
+  top: 212px;
+  width: 1px;
+}
+
+.the-berg-mobile .UT-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 124px;
+  position: absolute;
+  top: 255px;
+  width: 1px;
+}
+
+.the-berg-mobile .WY-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 153px;
+  position: absolute;
+  top: 228px;
+  width: 1px;
+}
+
+.the-berg-mobile .AR-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 253px;
+  position: absolute;
+  top: 287px;
+  width: 1px;
+}
+
+.the-berg-mobile .IA-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 242px;
+  position: absolute;
+  top: 234px;
+  width: 1px;
+}
+
+.the-berg-mobile .KS-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 211px;
+  position: absolute;
+  top: 263px;
+  width: 1px;
+}
+
+.the-berg-mobile .MO-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 250px;
+  position: absolute;
+  top: 262px;
+  width: 1px;
+}
+
+.the-berg-mobile .NE-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 201px;
+  position: absolute;
+  top: 240px;
+  width: 1px;
+}
+
+.the-berg-mobile .OK-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 221px;
+  position: absolute;
+  top: 285px;
+  width: 1px;
+}
+
+.the-berg-mobile .SD-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 199px;
+  position: absolute;
+  top: 218px;
+  width: 1px;
+}
+
+.the-berg-mobile .LA-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 254px;
+  position: absolute;
+  top: 309px;
+  width: 1px;
+}
+
+.the-berg-mobile .TX-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 213px;
+  position: absolute;
+  top: 318px;
+  width: 1px;
+}
+
+.the-berg-mobile .CT-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 373px;
+  position: absolute;
+  top: 214px;
+  width: 1px;
+}
+
+.the-berg-mobile .NH-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 374px;
+  position: absolute;
+  top: 199px;
+  width: 1px;
+}
+
+.the-berg-mobile .RI-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 379px;
+  position: absolute;
+  top: 212px;
+  width: 1px;
+}
+
+.the-berg-mobile .VT-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 366px;
+  position: absolute;
+  top: 197px;
+  width: 1px;
+}
+
+.the-berg-mobile .AL-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 295px;
+  position: absolute;
+  top: 299px;
+  width: 1px;
+}
+
+.the-berg-mobile .FL-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 338px;
+  position: absolute;
+  top: 323px;
+  width: 1px;
+}
+
+.the-berg-mobile .GA-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 321px;
+  position: absolute;
+  top: 296px;
+  width: 1px;
+}
+
+.the-berg-mobile .MS-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 274px;
+  position: absolute;
+  top: 301px;
+  width: 1px;
+}
+
+.the-berg-mobile .SC-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 336px;
+  position: absolute;
+  top: 283px;
+  width: 1px;
+}
+
+.the-berg-mobile .IL-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 270px;
+  position: absolute;
+  top: 246px;
+  width: 1px;
+}
+
+.the-berg-mobile .IN-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 291px;
+  position: absolute;
+  top: 245px;
+  width: 1px;
+}
+
+.the-berg-mobile .KY-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 305px;
+  position: absolute;
+  top: 259px;
+  width: 1px;
+}
+
+.the-berg-mobile .NC-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 349px;
+  position: absolute;
+  top: 268px;
+  width: 1px;
+}
+
+.the-berg-mobile .OH-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 311px;
+  position: absolute;
+  top: 240px;
+  width: 1px;
+}
+
+.the-berg-mobile .TN-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 295px;
+  position: absolute;
+  top: 275px;
+  width: 1px;
+}
+
+.the-berg-mobile .VA-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 342px;
+  position: absolute;
+  top: 254px;
+  width: 1px;
+}
+
+.the-berg-mobile .WI-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 261px;
+  position: absolute;
+  top: 211px;
+  width: 1px;
+}
+
+.the-berg-mobile .WV-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 328px;
+  position: absolute;
+  top: 248px;
+  width: 1px;
+}
+
+.the-berg-mobile .DE-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 362px;
+  position: absolute;
+  top: 240px;
+  width: 1px;
+}
+
+.the-berg-mobile .DC-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 352px;
+  position: absolute;
+  top: 241px;
+  width: 1px;
+}
+
+.the-berg-mobile .MD-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 351px;
+  position: absolute;
+  top: 238px;
+  width: 1px;
+}
+
+.the-berg-mobile .NJ-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 365px;
+  position: absolute;
+  top: 231px;
+  width: 1px;
+}
+
+.the-berg-mobile .NY-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 356px;
+  position: absolute;
+  top: 208px;
+  width: 1px;
+}
+
+.the-berg-mobile .PA-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 343px;
+  position: absolute;
+  top: 228px;
+  width: 1px;
+}
+
+.the-berg-mobile .ME-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 384px;
+  position: absolute;
+  top: 181px;
+  width: 1px;
+}
+
+.the-berg-mobile .MI-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 295px;
+  position: absolute;
+  top: 221px;
+  width: 1px;
+}
+
+.the-berg-mobile .AK-6 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.the-berg-mobile .MX-4 {
+  background-color: #bcbcbc;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 1px;
+  left: 186px;
+  position: absolute;
+  top: 375px;
+  width: 1px;
+}
+
+.the-berg-mobile .nz {
+  height: 132px;
+  left: 2168px;
+  position: absolute;
+  top: 986px;
+  width: 117px;
+}
+
+.the-berg-mobile .path-356 {
+  height: 2px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 129px;
+  width: 2px;
+}
+
+.the-berg-mobile .overlap-44 {
+  height: 103px;
+  left: 3px;
+  position: absolute;
+  top: 0;
+  width: 78px;
+}
+
+.the-berg-mobile .path-357 {
+  height: 4px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 99px;
+  width: 5px;
+}
+
+.the-berg-mobile .path-358 {
+  height: 50px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 49px;
+  width: 52px;
+}
+
+.the-berg-mobile .path-359 {
+  height: 2px;
+  left: 48px;
+  object-fit: cover;
+  position: absolute;
+  top: 51px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-360 {
+  height: 58px;
+  left: 41px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 37px;
+}
+
+.the-berg-mobile .path-361 {
+  height: 1px;
+  left: 56px;
+  object-fit: cover;
+  position: absolute;
+  top: 19px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-362 {
+  height: 2px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-363 {
+  height: 3px;
+  left: 113px;
+  object-fit: cover;
+  position: absolute;
+  top: 75px;
+  width: 4px;
+}
+
+.the-berg-mobile .path-364 {
+  height: 1px;
+  left: 117px;
+  object-fit: cover;
+  position: absolute;
+  top: 79px;
+  width: 1px;
+}
+
+.the-berg-mobile .sb {
+  height: 42px;
+  left: 2107px;
+  object-fit: cover;
+  position: absolute;
+  top: 762px;
+  width: 68px;
+}
+
+.the-berg-mobile .overlap-45 {
+  height: 72px;
+  left: 2130px;
+  position: absolute;
+  top: 819px;
+  width: 65px;
+}
+
+.the-berg-mobile .nc {
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 44px;
+  width: 53px;
+}
+
+.the-berg-mobile .overlap-group-8 {
+  background-image: url(../../../static/img/path2568-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 18px;
+  left: 26px;
+  position: absolute;
+  top: 8px;
+  width: 20px;
+}
+
+.the-berg-mobile .path-365 {
+  height: 2px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-366 {
+  height: 1px;
+  left: 48px;
+  object-fit: cover;
+  position: absolute;
+  top: 28px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-367 {
+  height: 4px;
+  left: 46px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 2px;
+}
+
+.the-berg-mobile .path-368 {
+  height: 2px;
+  left: 51px;
+  object-fit: cover;
+  position: absolute;
+  top: 18px;
+  width: 2px;
+}
+
+.the-berg-mobile .vu {
+  background-image: url(../../../static/img/vu-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 53px;
+  left: 43px;
+  position: absolute;
+  top: 0;
+  width: 22px;
+}
+
+.the-berg-mobile .fj {
+  height: 24px;
+  left: 2242px;
+  position: absolute;
+  top: 839px;
+  width: 18px;
+}
+
+.the-berg-mobile .fj-2 {
+  height: 24px;
+  position: relative;
+}
+
+.the-berg-mobile .path-369 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-370 {
+  height: 1px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-371 {
+  height: 7px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 9px;
+}
+
+.the-berg-mobile .path-372 {
+  height: 2px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 23px;
+  width: 3px;
+}
+
+.the-berg-mobile .path-373 {
+  height: 1px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-374 {
+  height: 7px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 10px;
+}
+
+.the-berg-mobile .path-375 {
+  height: 1px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 1px;
+}
+
+.the-berg-mobile .path-376 {
+  height: 1px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: 19px;
+  width: 1px;
+}
+
+.the-berg-mobile .ws {
+  height: 5px;
+  left: 2307px;
+  position: absolute;
+  top: 817px;
+  width: 9px;
+}
+
+.the-berg-mobile .path-377 {
+  height: 3px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 4px;
+}
+
+.the-berg-mobile .path-378 {
+  height: 2px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 4px;
+}
+
+.the-berg-mobile .to {
+  height: 3px;
+  left: 2291px;
+  position: absolute;
+  top: 879px;
+  width: 3px;
+}
+
+.the-berg-mobile .path-379 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.the-berg-mobile .fm {
+  background-image: url(../../../static/img/fm-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2118px;
+  position: absolute;
+  top: 652px;
+  width: 1px;
+}
+
+.the-berg-mobile .mp {
+  background-image: url(../../../static/img/mp-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2037px;
+  position: absolute;
+  top: 585px;
+  width: 1px;
+}
+
+.the-berg-mobile .nu {
+  background-image: url(../../../static/img/nu-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2300px;
+  position: absolute;
+  top: 859px;
+  width: 1px;
+}
+
+.the-berg-mobile .wf {
+  background-image: url(../../../static/img/wf-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2290px;
+  position: absolute;
+  top: 817px;
+  width: 1px;
+}
+
+.the-berg-mobile .as {
+  background-image: url(../../../static/img/as-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2321px;
+  position: absolute;
+  top: 824px;
+  width: 1px;
+}
+
+.the-berg-mobile .mh {
+  background-image: url(../../../static/img/mh-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2149px;
+  position: absolute;
+  top: 665px;
+  width: 1px;
+}
+
+.the-berg-mobile .tv {
+  background-image: url(../../../static/img/tv-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 2250px;
+  position: absolute;
+  top: 776px;
+  width: 1px;
+}
+
+.the-berg-mobile .pn {
+  background-image: url(../../../static/img/pn-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 320px;
+  position: absolute;
+  top: 921px;
+  width: 1px;
+}
+
+.the-berg-mobile .gu {
+  background-image: url(../../../static/img/gu-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 3px;
+  left: 2030px;
+  position: absolute;
+  top: 598px;
+  width: 2px;
+}
+
+.the-berg-mobile .group-2 {
+  height: 384px;
+  left: 179px;
+  object-fit: cover;
+  position: absolute;
+  top: 260px;
+  width: 467px;
+}
+
+.the-berg-mobile .group-3 {
+  height: 102px;
+  left: 97px;
+  position: absolute;
+  top: 41px;
+  width: 30px;
+}
+
+.the-berg-mobile .path-380 {
+  height: 25px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 77px;
+  width: 25px;
+}
+
+.the-berg-mobile .path-381 {
+  height: 30px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 39px;
+  width: 30px;
+}
+
+.the-berg-mobile .path-382 {
+  height: 30px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.the-berg-mobile .group-4 {
+  background-color: #fa612f;
+  border-radius: 16px;
+  height: 198px;
+  left: 110px;
+  position: absolute;
+  top: 676px;
+  width: 354px;
+}
+
+.the-berg-mobile .overlap-46 {
+  height: 140px;
+  left: 53px;
+  position: relative;
+  top: 35px;
+  width: 262px;
+}
+
+.the-berg-mobile .we-craft-digital {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 97px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 20px;
+  white-space: nowrap;
+}
+
+.the-berg-mobile .text-wrapper {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 75px;
+  font-weight: 700;
+  left: 5px;
+  letter-spacing: 0;
+  line-height: 81px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.the-berg-mobile .his-dolorem-habemus-wrapper {
+  height: 59px;
+  left: 0;
+  position: absolute;
+  top: 81px;
+  width: 250px;
+}
+
+.the-berg-mobile .his-dolorem-habemus {
+  color: #ffffff;
+  font-family: "DM Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 61px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: -4px;
+  width: 250px;
+}
+
+.the-berg-mobile .group-5 {
+  background-color: #005896;
+  border-radius: 16px;
+  box-shadow: 0px 3px 6px #00000029;
+  height: 161px;
+  left: 110px;
+  position: absolute;
+  top: 392px;
+  width: 354px;
+}
+
+.the-berg-mobile .overlap-47 {
+  height: 81px;
+  left: 132px;
+  position: absolute;
+  top: 15px;
+  width: 207px;
+}
+
+.the-berg-mobile .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "DM Sans", Helvetica;
+  font-size: 23px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  top: 31px;
+  white-space: nowrap;
+}
+
+.the-berg-mobile .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "DM Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 58px;
+  white-space: nowrap;
+}
+
+.the-berg-mobile .group-6 {
+  background-color: #fa612f;
+  border-radius: 16px;
+  display: block;
+  height: 32px;
+  left: 175px;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.the-berg-mobile .path-383 {
+  height: 16px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 16px;
+}
+
+.the-berg-mobile .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "DM Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 156px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 103px;
+  white-space: nowrap;
+  width: 137px;
+}
+
+.the-berg-mobile .path-384 {
+  height: 27px;
+  left: 131px;
+  object-fit: cover;
+  position: absolute;
+  top: 103px;
+  width: 19px;
+}
+
+.the-berg-mobile .element {
+  border-radius: 45.98px;
+  height: 92px;
+  left: 26px;
+  object-fit: cover;
+  position: absolute;
+  top: 41px;
+  width: 92px;
+}
+
+.the-berg-mobile .overlap-48 {
+  height: 222px;
+  left: -1px;
+  position: absolute;
+  top: 0;
+  width: 431px;
+}
+
+.the-berg-mobile .rectangle-2 {
+  height: 164px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 430px;
+}
+
+.the-berg-mobile .rectangle-3 {
+  background: linear-gradient(
+    180deg,
+    #004e8b 0%,
+    rgba(0, 86, 151, 0.1) 42.36%,
+    rgba(0, 87, 152, 0) 100%
+  );
+  height: 200px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 430px;
+}
+
+.the-berg-mobile .div-10 {
+  height: 96px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 431px;
+}
+
+.the-berg-mobile .overlap-49 {
+  height: 96px;
+  position: relative;
+}
+
+.the-berg-mobile .search {
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 16px;
+  height: 32px;
+  left: 329px;
+  position: absolute;
+  top: 32px;
+  width: 32px;
+}
+
+.the-berg-mobile .icon {
+  height: 19px;
+  left: 5px;
+  position: relative;
+  top: 5px;
+  width: 19px;
+}
+
+.the-berg-mobile .vector {
+  height: 16px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 16px;
+}
+
+.the-berg-mobile .VENTURE {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 20px;
+  width: 148px;
+}
+
+.the-berg-mobile .group-7 {
+  height: 24px;
+  left: 374px;
+  position: absolute;
+  top: 36px;
+  width: 26px;
+}
+
+.the-berg-mobile .line {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 26px;
+}
+
+.the-berg-mobile .line-2 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 26px;
+}
+
+.the-berg-mobile .line-3 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 16px;
+  width: 26px;
+}
+
+.the-berg-mobile .line-4 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 24px;
+  width: 26px;
+}
+
+.the-berg-mobile .group-wrapper {
+  height: 131px;
+  left: 147px;
+  position: absolute;
+  top: 91px;
+  width: 138px;
+}
+
+.the-berg-mobile .group-8 {
+  background-image: url(../../../static/img/group-50-5.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 131px;
+  overflow: hidden;
+}
+
+.the-berg-mobile .overlap-group-9 {
+  height: 131px;
+  position: relative;
+  width: 138px;
+}
+
+.the-berg-mobile .group-9 {
+  background-image: url(../../../static/img/group-52-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 129px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 136px;
+}
+
+.the-berg-mobile .group-10 {
+  background-image: url(../../../static/img/group-54-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 131px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 138px;
+}
+
+.the-berg-mobile .group-11 {
+  height: 24px;
+  left: 35px;
+  position: absolute;
+  top: 193px;
+  width: 91px;
+}
+
+.the-berg-mobile .his-dolorem-habemus-2 {
+  color: #f86229;
+  font-family: "DM Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  height: 25px;
+  left: 29px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: -3px;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.the-berg-mobile .vector-wrapper {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(180deg);
+  width: 24px;
+}
+
+.the-berg-mobile .vector-2 {
+  height: 15px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  transform: rotate(-180deg);
+  width: 18px;
+}
+
+.the-berg-mobile .we-craft-digital-wrapper {
+  height: 33px;
+  left: 62px;
+  position: absolute;
+  top: 238px;
+  width: 308px;
+}
+
+.the-berg-mobile .we-craft-digital-2 {
+  color: #005798;
+  font-family: "Poppins", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 48px;
+  position: absolute;
+  text-align: center;
+  top: -8px;
+  white-space: nowrap;
+}
+
+.the-berg-mobile .light-field-default {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #ebf0f4;
+  border-radius: 16px;
+  height: 48px;
+  left: 41px;
+  position: absolute;
+  top: 372px;
+  width: 354px;
+}
+
+.the-berg-mobile .placeholder {
+  color: #58617b;
+  font-family: "DM Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.the-berg-mobile .p {
+  color: #000000;
+  font-family: "DM Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 77px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 278px;
+  width: 278px;
+}
+
+.the-berg-mobile .the-map-you-see {
+  color: #005896;
+  font-family: "DM Sans", Helvetica;
+  font-size: 16px;
+  left: 60px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 1777px;
+  width: 298px;
+}
+
+.the-berg-mobile .span {
+  color: #999999;
+  font-family: "DM Sans", Helvetica;
+  font-weight: 400;
+}
+
+.the-berg-mobile .text-wrapper-5 {
+  font-family: "DM Sans", Helvetica;
+  font-weight: 700;
+}
+
+.the-berg-mobile .group-12 {
+  background-color: #fa612f;
+  border-radius: 16px;
+  height: 198px;
+  left: 38px;
+  position: absolute;
+  top: 1323px;
+  width: 354px;
+}
+
+.the-berg-mobile .overlap-50 {
+  height: 140px;
+  left: 41px;
+  position: relative;
+  top: 35px;
+  width: 266px;
+}
+
+.the-berg-mobile .we-craft-digital-3 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 126px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 20px;
+  white-space: nowrap;
+}
+
+.the-berg-mobile .we-craft-digital-4 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 75px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 81px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.the-berg-mobile .group-13 {
+  height: 59px;
+  left: 12px;
+  position: absolute;
+  top: 81px;
+  width: 250px;
+}
+
+.the-berg-mobile .group-14 {
+  background-color: #fa612f;
+  border-radius: 16px;
+  height: 198px;
+  left: 38px;
+  position: absolute;
+  top: 1539px;
+  width: 354px;
+}
+
+.the-berg-mobile .overlap-51 {
+  height: 140px;
+  left: 41px;
+  position: relative;
+  top: 35px;
+  width: 291px;
+}
+
+.the-berg-mobile .footer-mobile {
+  height: 492px;
+  left: 0;
+  position: absolute;
+  top: 2078px;
+  width: 432px;
+}
+
+.the-berg-mobile .overlap-52 {
+  height: 492px;
+  position: relative;
+}
+
+.the-berg-mobile .footer {
+  background-color: #0c141d;
+  height: 492px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 429px;
+}
+
+.the-berg-mobile .footer-2 {
+  background-color: transparent;
+  height: 366px;
+  left: 32px;
+  position: absolute;
+  top: 92px;
+  width: 400px;
+}
+
+.the-berg-mobile .cel {
+  height: 159px;
+  left: 8px;
+  position: absolute;
+  top: 0;
+  width: 392px;
+}
+
+.the-berg-mobile .overlap-53 {
+  height: 159px;
+  position: relative;
+}
+
+.the-berg-mobile .logo-text {
+  height: 116px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 235px;
+}
+
+.the-berg-mobile .overlap-group-10 {
+  height: 113px;
+  position: relative;
+}
+
+.the-berg-mobile .VENTURE-2 {
+  color: #ffffff;
+  font-family: "Sora", Helvetica;
+  font-size: 22px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  top: 0;
+  width: 235px;
+}
+
+.the-berg-mobile .feel-and-enjoy-the {
+  color: #98a2b3;
+  font-family: "Switzer-Medium", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: absolute;
+  top: 60px;
+  width: 177px;
+}
+
+.the-berg-mobile .menu {
+  height: 159px;
+  left: 226px;
+  position: absolute;
+  top: 0;
+  width: 166px;
+}
+
+.the-berg-mobile .content {
+  height: 159px;
+  position: relative;
+  width: 168px;
+}
+
+.the-berg-mobile .supports {
+  color: #ffffff;
+  font-family: "Switzer-Medium", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: -5px;
+  white-space: nowrap;
+  width: 168px;
+}
+
+.the-berg-mobile .cel-2 {
+  height: 102px;
+  left: 0;
+  position: absolute;
+  top: 57px;
+  width: 168px;
+}
+
+.the-berg-mobile .help {
+  color: #98a2b3;
+  font-family: "Switzer-Medium", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: absolute;
+  top: -4px;
+  white-space: nowrap;
+  width: 168px;
+}
+
+.the-berg-mobile .location {
+  color: #98a2b3;
+  font-family: "Switzer-Medium", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: absolute;
+  top: 34px;
+  white-space: nowrap;
+  width: 168px;
+}
+
+.the-berg-mobile .employees {
+  color: #98a2b3;
+  font-family: "Switzer-Medium", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: absolute;
+  top: 74px;
+  white-space: nowrap;
+  width: 168px;
+}
+
+.the-berg-mobile .cel-3 {
+  height: 86px;
+  left: 0;
+  position: absolute;
+  top: 280px;
+  width: 376px;
+}
+
+.the-berg-mobile .overlap-54 {
+  height: 52px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 366px;
+}
+
+.the-berg-mobile .cel-4 {
+  height: 50px;
+  left: 80px;
+  position: absolute;
+  top: 0;
+  width: 205px;
+}
+
+.the-berg-mobile .frame {
+  height: 27px;
+  left: 0;
+  position: absolute;
+  top: 25px;
+  width: 366px;
+}
+
+.the-berg-mobile .terms-condditions {
+  -webkit-text-stroke: 1px #707070;
+  color: #98a2b3;
+  font-family: "Switzer-Medium", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: -5px;
+  white-space: nowrap;
+  width: 193px;
+}
+
+.the-berg-mobile .ellipse {
+  background-color: #d9d9d9;
+  border: 1px solid;
+  border-color: #707070;
+  border-radius: 3px;
+  height: 6px;
+  left: 211px;
+  position: absolute;
+  top: 7px;
+  width: 6px;
+}
+
+.the-berg-mobile .text-wrapper-6 {
+  -webkit-text-stroke: 1px #707070;
+  color: #98a2b3;
+  font-family: "Switzer-Medium", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 237px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: -5px;
+  white-space: nowrap;
+  width: 129px;
+}
+
+.the-berg-mobile .element-venture-all {
+  -webkit-text-stroke: 1px #707070;
+  color: #98a2b3;
+  font-family: "Switzer-Medium", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 66px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 54px;
+  white-space: nowrap;
+  width: 309px;
+}
